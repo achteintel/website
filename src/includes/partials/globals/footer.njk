@@ -1,0 +1,18 @@
+
+  <footer role="contentinfo" class="page-footer">
+    <ul class="nols inline">
+      <li><a href="{{ '/impressum/' | url }}">Impressum</a></li><!--
+      --><li><a href="{{ '/datenschutz/' | url }}">Datenschutz</a></li><!--
+      --><li class="copyright">© {% year %} achteintel.org</li>
+    </ul>
+  </footer>
+  <script src="{{ '/assets/scripts/countdown.js' | versionedURL }}" charset="utf-8" async defer></script>
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('/serviceworker.js');
+      });
+    }
+  </script>
+</body>
+</html>

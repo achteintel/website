@@ -1,0 +1,30 @@
+/*------------------------------------*\
+  FONTS
+\*------------------------------------*/
+
+@font-face {
+  font-family: 'Eesti Regular';
+  src:  url('../../../../../assets/fonts/GT-Eesti-Display-Regular.woff2') format('woff2'),
+        url('../../../../../assets/fonts/GT-Eesti-Display-Regular.woff') format('woff');
+  font-display: swap;
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'Eesti Bold';
+  src:  url('../../../../../assets/fonts/GT-Eesti-Display-Bold.woff2') format('woff2'),
+        url('../../../../../assets/fonts/GT-Eesti-Display-Bold.woff') format('woff');
+  font-display: swap;
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'Space Mono';
+  src:  url('../../../../../assets/fonts/space-mono-v6-latin-regular.woff2') format('woff2'),
+        url('../../../../../assets/fonts/space-mono-v6-latin-regular.woff') format('woff');
+  font-display: swap;
+  font-style: normal;
+  font-weight: normal;
+}

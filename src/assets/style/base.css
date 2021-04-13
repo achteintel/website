@@ -1,0 +1,59 @@
+/*------------------------------------*\
+  BASE
+\*------------------------------------*/
+
+@media screen and (prefers-reduced-motion:reduce) {
+  * {
+    transition: 0s !important
+  }
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.symbols-sprite {
+  display: none;
+  height: 0;
+  width: 0;
+}
+
+.hidden {
+  display: none;
+}
+
+.visually-hidden {
+  border: 0 !important;
+  clip: rect(1px, 1px, 1px, 1px) !important;
+  height: 1px !important;
+  overflow: hidden !important;
+  padding: 0 !important;
+  position: absolute !important;
+  width: 1px !important;
+}
+
+@media (max-width: 40em) {
+  .visually-hidden--small {
+    border: 0 !important;
+    clip: rect(1px, 1px, 1px, 1px) !important;
+    height: 1px !important;
+    overflow: hidden !important;
+    padding: 0 !important;
+    position: absolute !important;
+    width: 1px !important;
+  }
+}
+
+img,
+svg {
+  display: block;
+}

@@ -1,0 +1,56 @@
+.cta--crowdfunding {
+  color: var(--secondary);
+  margin-top: var(--spacing-xl);
+  margin-bottom: calc(var(--spacing-xl) * 2);
+}
+
+.cta--crowdfunding::before {
+  background-color: var(--primary);
+  border-radius: 50%;
+  content: '';
+  display: block;
+  height: 56px;
+  margin: var(--spacing-xl) 0;
+  width: 56px;
+}
+
+@media (min-width: 48em) {
+  .cta--crowdfunding::before {
+    height: 108px;
+    margin: calc(var(--spacing-xl) * -2) 0 0 3%;
+    position: absolute;
+    width: 108px;
+  }
+}
+
+.cta--crowdfunding h3,
+.cta--crowdfunding p,
+.cta--crowdfunding .digit {
+  font-family: var(--monospace);
+  font-size: var(--highlighted-text);
+  font-style: normal;
+  font-weight: normal;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.cta--crowdfunding .entity {
+  margin-right: var(--spacing-m);
+}
+
+@media (min-width: 48em) {
+  .cta--crowdfunding .entity {
+    margin-right: var(--spacing-xl);
+  } 
+}
+
+.cta--crowdfunding .digit {
+  font-size: var(--primary-headline);
+  display: block;
+}
+
+.cta--crowdfunding p.cta-button {
+  font-size: var(--label-text);
+  margin-top: var(--spacing-m);
+  margin-bottom: var(--spacing-s);
+}

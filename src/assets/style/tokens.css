@@ -1,0 +1,70 @@
+/*------------------------------------*\
+  TOKENS
+\*------------------------------------*/
+
+:root {
+  /* COLORS */
+  --background-color: rgb(255, 255, 255);
+  --text-color: rgb(0, 0, 0);
+  --primary: rgb(5, 255, 165);
+  --secondary: rgb(98, 8, 255);
+
+  /* FONTS */
+  --copy-text: 'Eesti Regular', sans-serif;
+  --bold-text: 'Eesti Bold', sans-serif;
+  --monospace: 'Space Mono', monospace;
+
+  /* FONT SIZES */
+  --primary-headline: 30px;
+  --secondary-headline: 26px;
+  --highlighted-text: 24px;
+  --body-text: 20px;
+  --label-text: 16px;
+
+  /* LAYOUT TOKENS */
+  --spacing-s: 8px;
+  --spacing-m: 16px;
+  --spacing-l: 24px;
+  --spacing-xl: 32px;
+  --spacing-xxl: 32px;
+  --avatar: 150px;
+  --max-width: 1280px;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background-color: rgb(0, 0, 0);
+    --text-color: rgb(255, 255, 255);
+    --primary: rgb(98, 8, 255);
+    --secondary: rgb(5, 255, 165);
+  }
+}
+
+@media (min-width: 48em) {
+  :root {
+    --primary-headline: 36px;
+    --secondary-headline: 30px;
+    --highlighted-text: 28px;
+    --body-text: 22px;
+    --label-text: 18px;
+    --spacing-xxl: 64px;
+    --avatar: 120px;
+  }
+}
+
+@media (min-width: 60em) {
+  :root {
+    --avatar: 150px;
+  }
+}
+
+@media (min-width: 80em) {
+  :root {
+    --primary-headline: 40px;
+    --secondary-headline: 36px;
+    --highlighted-text: 32px;
+    --body-text: 30px;
+    --label-text: 20px;
+    --spacing-xxl: 80px;
+  }
+}

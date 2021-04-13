@@ -1,0 +1,61 @@
+.page-header {
+  background-color: var(--primary);
+}
+
+@media (min-width: 80em) {
+  .page-header--hero {
+      background: linear-gradient(180deg, var(--primary) 38.2%, var(--background-color) 38.2%);
+  }
+}
+
+.page-header-content {
+  padding: var(--spacing-l) var(--spacing-l) 40px;
+}
+
+.page-header-content .symbol {
+  margin-right: var(--spacing-m);
+}
+
+.page-header-content,
+.page-header-hero {
+  margin: 0 auto;
+  position: relative;
+  max-width: var(--max-width);
+}
+
+.page-header-hero img {
+  display: block;
+  height: auto;
+  width: 100%;
+}
+
+/* TODO: keep it positioned relative on smaller breakpoints  */
+.page-header-hero p {
+  background-color: var(--secondary);
+  color: var(--background-color);
+  display: block;
+  font-family: var(--monospace);
+  font-size: var(--label-text);
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  margin: 0;
+  padding: var(--spacing-s) var(--spacing-l);
+  width: 100%;
+}
+
+@media (min-width: 40em) {
+  .page-header-hero p {
+    border-radius: var(--spacing-xl);
+    left: var(--spacing-xl);
+    position: absolute;
+    top: 0;
+    transform: rotate(-90deg) translate(-60%, -200%);
+    width: 270px;
+  }
+}
+
+.page-header-hero p::after {
+  content: '\2002\2014';
+  display: inline;
+}

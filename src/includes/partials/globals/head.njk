@@ -1,0 +1,69 @@
+{% set siteTitle = 'achteintel–LitfassMuseum' %}
+{% set siteUrl = 'https://achteintel.org' %}
+
+{% set pageTitle = title + ' - ' + siteTitle %}
+{% set currentUrl = siteUrl + page.url %}
+
+<!DOCTYPE html>
+<html dir="ltr" lang="de">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta property="og:site_name" content="{{ siteTitle }}" />
+    <meta property="og:title" content="{{ pageTitle }}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="{{ currentUrl }}" />
+    {% if metaDescription %}
+      <meta name="description" content="{{ metaDescription }}">
+      <meta name="twitter:description" content="{{ metaDescription }}" />
+      <meta property="og:description" content="{{ metaDescription }}" />
+    {% endif %}
+    <link rel="icon" type="image/svg+xml" href="{{ '/assets/app-icons/app-icon.svg' | url }}">
+    <link rel="alternate icon" type="image/png" href="{{ '/assets/app-icons/app-icon-144.png' | url }}">
+    <link rel="apple-touch-icon" type="image/png" href="{{ '/assets/app-icons/app-icon-192.png' | url }}">
+    <link rel="apple-touch-icon" type="image/png" href="{{ '/assets/app-icons/app-icon-256.png' | url }}">
+    <link rel="apple-touch-icon" type="image/png" href="{{ '/assets/app-icons/app-icon-512.png' | url }}">
+    <link rel="manifest" href="{{ '/manifest.json' | url }}">
+    {% if 'impressum' in page.url or 'offline' in page.url %}
+      <title>{{ pageTitle }}</title>
+    {% else %}
+      <title>{{ siteTitle }}</title>
+    {% endif %}
+    <link rel="canonical" href="{{ currentUrl }}" />
+    <style>
+      {{ css | cssmin | safe }}
+    </style>
+  </head>
+  <body>
+    <div class="symbols-sprite" hidden>{% sprite %}</div>
+    <header id="header" role="banner" class="page-header {% if heroImage %} page-header--hero {% endif %}">
+      <div class="page-header-content flex-row flex-row--space-between">
+        <h1 class="logo-title">
+          {% if 'impressum' in page.url or 'datenschutz' in page.url or 'offline' in page.url %}
+            <a class="logolink" href="{{ '/' | url }}">
+              <span class="logo flex-row">
+                {% symbol "logo", "83.3", "70" %}
+                {% symbol "dino", "36.68", "78" %}
+              </span>
+              <span class="label visually-hidden">{{ siteTitle }}</span>
+            </a>
+          {% else %}
+            <span class="logo flex-row">
+              {% symbol "logo", "83.3", "70" %}
+              {% symbol "dino", "36.68", "78" %}
+            </span>
+            <span class="label visually-hidden">{{ siteTitle }}</span>
+          {% endif %}
+        </h1>
+        {# <a rel="noopener" target="_blank" class="button" href="https://wemakeit.com/projects/achteintel–litfassmuseum"><span class="visually-hidden--small">Jetzt</span> unterstützen</a> #}
+      </div>
+      {% if heroImage %}
+        <div class="page-header-hero">
+          {% if heroText %}
+            <p>{{ heroText }}</p>
+          {% endif %}
+          {% responsiveImage heroImage, heroImageAlt, '(min-width: 60em) 90vw, 100vw' %}
+        </div>
+      {% endif %}
+    </header>
