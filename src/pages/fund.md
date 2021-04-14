@@ -6,6 +6,8 @@ metaDescription: Achteintel, das LitfassMuseum erfrischt das Stadtbild von Karls
 heroImage: './src/assets/img/hero-01.jpg'
 heroImageAlt: 'Dino und Litfaßsäule'
 heroText: 'Das LitfassMuseum für Karlsruhe'
+ogImage: './src/assets/img/hero-01.jpg'
+ogImageAlt: 'Eine Litfaßsäule des achteintel—LitfassMuseum mit einem Dinosaurier'
 ---
 
 ## achteintel–LitfassMuseum
@@ -14,7 +16,7 @@ Zwölf ganze Litfaßsäulen wollen wir mit Kunst, Grafik, Illustration und Fotog
 
 Wir wollen Aufmerksamkeit erregen, Interesse wecken und Mut machen. Mit Werken, die über den Bildschirmrand hinaus in unseren Alltag wirken.
 
-Zur Finanzierung setzen wir gerade eine Crowdfunding-Kampagne auf, die am 23. April startet. Wir freuen uns auf deinen Besuch und deine Unterstützung. **Bist du dabei?**
+Zur Finanzierung setzen wir gerade eine Crowdfunding-Kampagne auf, die am 20. April startet. Wir freuen uns auf deinen Besuch und deine Unterstützung. **Bist du dabei?**
 
 - - -
 

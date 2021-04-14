@@ -58,6 +58,24 @@ module.exports = function(eleventyConfig) {
     return Image.generateHTML(metadata, imageAttributes);
   });
 
+  eleventyConfig.addNunjucksAsyncShortcode("handleOgImage", async function (src, alt) {
+    if (alt === undefined) {
+      // You bet we throw an error on missing alt (alt="" works okay)
+      throw new Error(`Missing \`alt\` on myImage from: ${src}`);
+    }
+
+    // returns Promise
+    let metadata = await Image(src, {
+      formats: ["jpeg"],
+      // the directory in the image URLs <img src="/img/MY_IMAGE.png">
+      urlPath: "/assets/img/",
+      outputDir: "./dist/assets/img/",
+      widths: [1200]
+    });
+    let data = metadata.jpeg[metadata.jpeg.length - 1];
+    return `<meta name="og:image" content="${data.url}" /><meta name="og:image:type" content="image/jpeg" /><meta property="og:image:width" content="${data.width}" /><meta property="og:image:height" content="${data.height}" /><meta property="og:image:alt" content="${alt}" />`;
+  });
+
   // Shortcodes
   Object.keys(shortcodes).forEach((shortcodeName) => {
     eleventyConfig.addShortcode(shortcodeName, shortcodes[shortcodeName])

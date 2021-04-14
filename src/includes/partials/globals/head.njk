@@ -19,6 +19,9 @@
       <meta name="twitter:description" content="{{ metaDescription }}" />
       <meta property="og:description" content="{{ metaDescription }}" />
     {% endif %}
+    {% if ogImage %}
+      {% handleOgImage ogImage, ogImageAlt %}
+    {% endif %}
     <link rel="icon" type="image/svg+xml" href="{{ '/assets/app-icons/app-icon.svg' | url }}">
     <link rel="alternate icon" type="image/png" href="{{ '/assets/app-icons/app-icon-144.png' | url }}">
     <link rel="apple-touch-icon" type="image/png" href="{{ '/assets/app-icons/app-icon-192.png' | url }}">

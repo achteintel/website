@@ -6,11 +6,17 @@ metaDescription: Deine Internetverbindung scheint instabil zu sein.
 heroImage: './src/assets/img/hero-01.jpg'
 heroImageAlt: 'Dino und Litfaßsäule'
 heroText: 'Das LitfassMuseum für Karlsruhe'
+ogImage: './src/assets/img/hero-01.jpg'
+ogImageAlt: 'Eine Litfaßsäule des achteintel—LitfassMuseum mit einem Dinosaurier'
 ---
 
 ## achteintel–LitfassMuseum
 
-Wir wollen in Karlsruhe leerstehende Litfaßsäulen im Stadtgebiet nutzen, und sie in ein Museum verwandeln. Die Umsetzung dieser Ausstellungsidee wollen wir mit einer Crowdfuning Kampagne finanzieren. Unsere Stadt Unser Museum. **Bist du dabei?**
+Zwölf ganze Litfaßsäulen wollen wir mit Kunst, Grafik, Illustration und Fotografie bespielen, und so mit positiven Zeichen das Stadtbild von Karlsruhe erfrischen. 
+
+Wir wollen Aufmerksamkeit erregen, Interesse wecken und Mut machen. Mit Werken, die über den Bildschirmrand hinaus in unseren Alltag wirken.
+
+Die Umsetzung dieser Ausstellungsidee wollen wir mit einer Crowdfuning Kampagne finanzieren, die am 20. April startet. Unsere Stadt Unser Museum. **Bist du dabei?**
 
 - - -
 

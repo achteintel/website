@@ -6,11 +6,17 @@ metaDescription: Achteintel, das LitfassMuseum erfrischt das Stadtbild von Karls
 heroImage: './src/assets/img/hero-01.jpg'
 heroImageAlt: 'Dino und Litfaßsäule'
 heroText: 'Das LitfassMuseum für Karlsruhe'
+ogImage: './src/assets/img/hero-01.jpg'
+ogImageAlt: 'Eine Litfaßsäule des achteintel—LitfassMuseum mit einem Dinosaurier'
 ---
 
 ## achteintel–LitfassMuseum
 
-Wir wollen in Karlsruhe leerstehende Litfaßsäulen im Stadtgebiet nutzen, und sie in ein Museum verwandeln. Die Umsetzung dieser Ausstellungsidee wollen wir mit einer Crowdfuning Kampagne finanzieren. Unsere Stadt Unser Museum. **Bist du dabei?**
+Zwölf ganze Litfaßsäulen wollen wir mit Kunst, Grafik, Illustration und Fotografie bespielen, und so mit positiven Zeichen das Stadtbild von Karlsruhe erfrischen. 
+
+Wir wollen Aufmerksamkeit erregen, Interesse wecken und Mut machen. Mit Werken, die über den Bildschirmrand hinaus in unseren Alltag wirken.
+
+Die Umsetzung dieser Ausstellungsidee wollen wir mit einer Crowdfuning Kampagne finanzieren, die am 20. April startet. Unsere Stadt Unser Museum. **Bist du dabei?**
 
 - - -
 
@@ -28,7 +34,7 @@ Im Juli 2021 planen wir die erste Ausstellung des achteintel–LitfassMuseum fü
 
 Dort, in der Stadt wo viele von uns ihren Alltag verbringen brauchen wir die Intervention. Mit dieser Ausstellung wollen wir in seltsamen Zeiten positive Zeichen setzen.
 
-Für die Ausstellung planen wir für jede*n der sechs Künstler\*innen zwei identische Ganzsäulen mit jeweils drei unterschiedlichen Motiven. Die Werke bleiben für 10 Tage auf den Litfaßsäulen im Stadtgebiet ausgestellt. Vier Künstler\*innen, aus der Region Karlsruhe, haben ihre Beteiligung bereits zugesagt.
+Für die Ausstellung planen wir für jede*n der sechs Künstler\*innen zwei identische Ganzsäulen mit jeweils drei unterschiedlichen Motiven. Die Werke bleiben für 10 Tage auf den Litfaßsäulen im Stadtgebiet ausgestellt.
 
 Um den Künstler\*innen während und über die Ausstellung hinaus eine Plattform zu geben, zeigen wir auf unserer Webseite achteintel.org alle Werke und stellen die Künstler\*innen mit einem kurzen Beitrag vor.
 
