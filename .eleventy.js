@@ -27,7 +27,8 @@ module.exports = function(eleventyConfig) {
     const head = './src/assets/style/head.css';
     const cta = './src/assets/style/cta.css';
     const layout = './src/assets/style/layout.css';
-    return new CleanCSS({ inline: ['local'] }).minify([normalize, variables, fonts, base, typography, head, cta, layout]).styles;
+    const forms = './src/assets/style/forms.css';
+    return new CleanCSS({ inline: ['local'] }).minify([normalize, variables, fonts, base, typography, head, cta, layout, forms]).styles;
   });
 
   // Handle Images

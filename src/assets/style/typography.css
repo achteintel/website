@@ -44,7 +44,8 @@ h2 + h3 {
 
 .page-content p,
 .page-content ul,
-.page-content ol {
+.page-content ol,
+input[type="email"] {
   font-size: var(--body-text);
 }
 
@@ -83,8 +84,17 @@ a:focus {
   color: var(--secondary);
 }
 
+button {
+  appearance: none;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  border: 0;
+
+}
+
 a.button,
-a.button:visited {
+a.button:visited,
+.button {
   background-color: var(--secondary);
   border-radius: var(--spacing-xl);
   color: var(--background-color);
@@ -97,7 +107,9 @@ a.button:visited {
 }
 
 a.button:hover,
-a.button:focus {
+a.button:focus,
+.button:hover,
+.button:focus {
   background-color: var(--text-color);
 }
 

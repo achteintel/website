@@ -93,6 +93,20 @@ Soweit nicht anders im Rahmen unserer Datenschutzerklärung angegeben, verarbeit
 
 Über die Datenschutzerklärungen der Netzwerke und Plattformen informieren Sie sich bitte direkt bei [Twitter](https://twitter.com/de/privacy#update) und [Instagram](https://help.instagram.com/155833707900388).
 
+### Newsletter
+
+Wir bieten einen Newsletter mit akuellen Informationen zum Projekt an. Nutzer\*innen können sich für diesen Newsletter anmelden. Die Anmeldung zum Empfang des Newsletters ist freiwillig und kann jederzeit beendet werden.
+
+Für den Versand des Newsletters nutzen wir den Anbieter [Sendinblue](https://de.sendinblue.com/), der auch eine Abteilung in Deutschland betreibt und in Übereinstimmung mit der DSGVO über Server mit Standort in Deutschland verfügt.
+
+Mit der Anmeldung zum Newsletter wird die E-Mail-Adresse an Sendinblue übertragen und dort gespeichert. Nach der Anmeldung erhält die* Empfänger*in eine E-Mail (im sogenannten »Double-Opt-In«-Verfahren), um die damit verbundene Mitgliedschaft in der E-Mail-Liste zu bestätigen.
+
+Um sich gegen etwaige Vorwürfe unverlangt zugesendeter E-Mails zu schützen, speichert Sendinblue das Datum der Eintragung sowie die IP-Adresse der* Empfänger*in.
+
+Auf die Speicherung der IP-Adresse durch Sendinblue sei hiermit ausdrücklich hingewiesen, es gilt die [Datenschutzrichtlinie von Sendinblue](https://de.sendinblue.com/legal/privacypolicy/).
+
+Der Newsletter kann jederzeit abbestellt werden, entsprechende Informationen sind in jeder Ausgabe des Newsletters zu finden. Wenn sich Empfänger*innen vom Newsletter abmelden, wird auch die damit zusammenhängende E-Mail-Adresse gelöscht.
+
 ### Änderung des Datenschutzhinweises
 
 Wir behalten uns vor, diesen Datenschutzhinweis anzupassen, damit er stets den aktuellen rechtlichen Anforderungen entspricht oder um Änderungen unserer Leistungen im Datenschutzhinweis umzusetzen, z.B. bei der Einführung neuer Services. Für Deinen erneuten Besuch gilt dann der neue Datenschutzhinweis.

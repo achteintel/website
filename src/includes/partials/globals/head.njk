@@ -45,7 +45,7 @@
     <header id="header" role="banner" class="page-header {% if heroImage %} page-header--hero {% endif %}">
       <div class="page-header-content flex-row flex-row--space-between">
         <h1 class="logo-title">
-          {% if 'impressum' in page.url or 'datenschutz' in page.url or 'offline' in page.url or 'fund' in page.url %}
+          {% if 'impressum' in page.url or 'datenschutz' in page.url or 'offline' in page.url or 'fund' in page.url or 'newsletter' in page.url %}
             <a class="logolink" href="{{ '/' | url }}">
               <span class="logo flex-row">
                 {% symbol "logo", "83.3", "70" %}
@@ -61,7 +61,10 @@
             <span class="label visually-hidden">{{ siteTitle }}</span>
           {% endif %}
         </h1>
-        <a rel="noopener" target="_blank" class="button" href="https://newsletter.achteintel.org">Newsletter <span class="visually-hidden--small">abonnieren</span></a>
+        {% if 'newsletter' in page.url %}
+        {% else %}
+          <a class="button" href="{{ '/newsletter/' | url }}">Newsletter <span class="visually-hidden--small">abonnieren</span></a>
+        {% endif %}
         {# <a rel="noopener" target="_blank" class="button" href="https://wemakeit.com/projects/achteintel–litfassmuseum"><span class="visually-hidden--small">Jetzt</span> unterstützen</a> #}
       </div>
       {% if heroImage %}

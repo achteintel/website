@@ -1,0 +1,62 @@
+.sib-form-message-panel {
+  display: none;
+}
+
+.sib-form-message-panel--active {
+  display: block;
+}
+
+.sib-form-message-panel--active,
+.entry__error--primary {
+  color: var(--secondary);
+}
+
+.sib-hide-loader-icon {
+  display: none !important;
+}
+
+.progress-indicator__icon {
+  display: inline-block;
+  height: 1em;
+  margin-right: 0.35em;
+  width: auto;
+}
+
+.sib-form-block {
+  margin-top: var(--spacing-l); 
+  margin-bottom: var(--spacing-l); 
+}
+
+.form__label-row {
+  /* column layout defined in layout.css  */
+}
+
+.entry__specification {
+  display: block;
+}
+
+.entry__field {
+  margin-top: var(--spacing-s);
+  margin-bottom: var(--spacing-s);
+}
+
+label.entry__label,
+.entry__error--primary {
+  margin-left: var(--spacing-m);
+}
+
+input[type="email"] {
+  background: none;
+  border: 1px solid;
+  border-radius: var(--spacing-xl);
+  color: var(--text-color);
+  display: block;
+  font-family: inherit;
+  padding: var(--spacing-s) var(--spacing-m);
+  width: 100%;
+}
+
+input[type="email"]:focus {
+  color: var(--secondary);
+  outline: none;
+}
