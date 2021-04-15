@@ -21,6 +21,8 @@
     {% endif %}
     {% if ogImage %}
       {% handleOgImage ogImage, ogImageAlt %}
+    {% else %}
+      {% handleOgImage './src/assets/img/og-image.jpg', 'Eine Litfaßsäule des achteintel—LitfassMuseum mit einem Dinosaurier und dem Slogan Unsere Stadt Unser Museum' %}
     {% endif %}
     <link rel="icon" type="image/svg+xml" href="{{ '/assets/app-icons/app-icon.svg' | url }}">
     <link rel="alternate icon" type="image/png" href="{{ '/assets/app-icons/app-icon-144.png' | url }}">
