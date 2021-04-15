@@ -1,0 +1,11 @@
+# Redirect default Netlify subdomain to primary domain
+
+https://xenodochial-kare-34379a.netlify.app/* https://achteintel.org/:splat 301!
+
+# Redirect fund-subdomain
+
+https://fund.achteintel.org/ https://achteintel.org/fund:splat 301!
+
+# Redirect newsletter-subdomain
+
+https://newsletter.achteintel.org/ https://4e92a60e.sibforms.com/serve/MUIEAMsQIgrf9szBzjFPlYir9wLi25c08gbtibTVYL1U3rFEYRkLNJERoIdxFeIlTsOW_bMB4HAWRHaMqaQ9ctcUHx0Q1x78nYQT9Qmfkoxu1XEviN7M4Fx2WRCNx4zjYyjtFOo54B8_vfADxilAF2NwmmNdCEAtYfm9SOHeJ4gIyHO08NVF13iVM8Kbq-SrM4ZPDlKqIrzGAuOi:splat 301!
