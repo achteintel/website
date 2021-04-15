@@ -73,7 +73,7 @@ module.exports = function(eleventyConfig) {
       widths: [1200]
     });
     let data = metadata.jpeg[metadata.jpeg.length - 1];
-    return `<meta name="og:image" content="${data.url}" /><meta name="og:image:type" content="image/jpeg" /><meta property="og:image:width" content="${data.width}" /><meta property="og:image:height" content="${data.height}" /><meta property="og:image:alt" content="${alt}" />`;
+    return `<meta property="og:image" content="${data.url}" /><meta property="og:image:type" content="image/jpeg" /><meta property="og:image:width" content="${data.width}" /><meta property="og:image:height" content="${data.height}" /><meta property="og:image:alt" content="${alt}" />`;
   });
 
   // Shortcodes
