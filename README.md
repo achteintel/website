@@ -6,7 +6,18 @@ It is built with [Eleventy](https://github.com/11ty/eleventy/) and deployed to [
 
 ## Credits
 
-To develop this site with Eleventy is made possible by the following people who share their knowledge and keep their source code open:
+### Design
+
+Corporate Design: [Michael Gibis](https://michaelgibis.com)
+
+Typography:
+
+- GT Eesti Display
+- Space Mono
+
+### Inspiration
+
+Developing this site with Eleventy is made possible by the following people who share their knowledge and keep their source code open:
 
 - [Zach Leatherman](https://github.com/zachleat)
 - [Andy Bell](https://github.com/andy-piccalilli)
