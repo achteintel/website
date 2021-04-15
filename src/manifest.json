@@ -32,5 +32,6 @@
     "start_url": "/",
     "display": "standalone",
     "background_color": "rgb(5, 255, 165)",
-    "theme_color": "rgb(0, 0, 0)"
+    "theme_color": "rgb(0, 0, 0)",
+    "prefer_related_applications": false
 }
