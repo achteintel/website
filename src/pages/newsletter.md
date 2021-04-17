@@ -47,7 +47,7 @@ Du willst wissen wie sich das achteintel – LitfassMuseum weiterentwickelt? Kei
         <div>
           <div class="sib-form__declaration">
             <p>Wir verwenden Sendinblue für die Abwicklung des Newsletters. Wenn Du das Formular ausfüllst und absendest, bestätigst Du, dass die von Dir angegebenen Informationen an Sendinblue zur Bearbeitung gemäß den <a target="_blank" class="clickable_link" rel="noopener" href="https://de.sendinblue.com/legal/termsofuse/">Nutzungsbedingungen</a> übertragen werden.</p>
-            <p class="entry__specification">Den Newsletter kannst Du jederzeit über den Link in jeder Ausgabe abbestellen.</p>
+            <p class="entry__specification">Den Newsletter kannst Du jederzeit über den Link in der Ausgabe abbestellen.</p>
           </div>
         </div>
         <div>
@@ -56,6 +56,7 @@ Du willst wissen wie sich das achteintel – LitfassMuseum weiterentwickelt? Kei
           </div>
         </div>
         <input type="text" name="email_address_check" value="" class="input--hidden hidden">
+        <input type="checkbox" class="input_hidden hidden" value="1" id="OPT_IN" name="OPT_IN" checked="checked" />
         <input class="hidden" type="hidden" name="locale" value="de">
       </form>
     </div>
