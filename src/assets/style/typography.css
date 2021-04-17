@@ -3,8 +3,11 @@
 \*------------------------------------*/
 
 html {
+  background-color: rgb(255, 255, 255);
   background-color: var(--background-color);
+  color: rgb(0, 0, 0);
   color: var(--text-color);
+  font-family: 'Eesti Regular', sans-serif;
   font-family: var(--copy-text);
   font-feature-settings: "kern", "liga", "pnum";
   font-kerning: normal;
@@ -24,17 +27,21 @@ h4 {
 
 h1,
 h2 {
+  font-size: 40px;
   font-size: var(--primary-headline);
 }
 
 h3,
 h4 {
+  font-size: 36px;
   font-size: var(--secondary-headline);
 }
 
 h2,
 h3 {
+  margin-top: 64px;
   margin-top: var(--spacing-xxl);
+  margin-bottom: 32px;
   margin-bottom: var(--spacing-xl);
 }
 
@@ -46,15 +53,18 @@ h2 + h3 {
 .page-content ul,
 .page-content ol,
 input[type="email"] {
+  font-size: 30px;
   font-size: var(--body-text);
 }
 
 .page-footer {
+  font-size: 20px;
   font-size: var(--label-text);
 }
 
 strong {
   font-weight: normal;
+  color: rgb(98, 8, 255);
   color: var(--secondary);
 }
 
@@ -64,23 +74,27 @@ strong {
 
 a,
 a:visited {
+  color: rgb(98, 8, 255);
   color: var(--secondary);
   transition: all 0.3s ease-in;
 }
 
 a:hover,
 a:focus {
+  color: rgb(0, 0, 0);
   color: var(--text-color);
 }
 
 .page-header a,
 .page-header a:visited {
+  color: rgb(0, 0, 0);
   color: var(--text-color);
   text-decoration: none;
 }
 
 .page-header a:hover,
 .page-header a:focus {
+  color: rgb(98, 8, 255);
   color: var(--secondary);
 }
 
@@ -95,13 +109,19 @@ button {
 a.button,
 a.button:visited,
 .button {
+  background-color: rgb(98, 8, 255);
   background-color: var(--secondary);
+  border-radius: 64px;
   border-radius: var(--spacing-xl);
+  color: rgb(255, 255, 255);
   color: var(--background-color);
   display: inline-block;
+  font-family: 'Eesti Bold', sans-serif;
   font-family: var(--bold-text);
+  font-size: 20px;
   font-size: var(--label-text);
   font-weight: normal;
+  padding: 8px 24px;
   padding: var(--spacing-s) var(--spacing-l);
   text-decoration: none;
 }
@@ -110,18 +130,23 @@ a.button:hover,
 a.button:focus,
 .button:hover,
 .button:focus {
+  background-color: rgb(0, 0, 0);
   background-color: var(--text-color);
 }
 
 a.button--primary,
 a.button--primary:visited {
+  background-color: rgb(5, 255, 165);
   background-color: var(--primary);
+  color: rgb(0, 0, 0);
   color: var(--text-color);
 }
 
 a.button--primary:hover,
 a.button--primary:focus {
+  background-color: rgb(0, 0, 0);
   background-color: var(--text-color);
+  color: rgb(255, 255, 255);
   color: var(--background-color);
 }
 
@@ -132,13 +157,15 @@ a.button--primary:focus {
 
 .crew-member-link-symbol {
   display: inline-block;
+  margin-right: 16px;
   margin-right: var(--spacing-m);
   transition: all 0.3s ease-in;
 }
 
 .crew-member-link:hover .crew-member-link-symbol,
 .crew-member-link:focus .crew-member-link-symbol {
-  margin-right: calc(var(--spacing-m) * 1.5);
+  margin-right: 24px;
+  margin-right: var(--spacing-l);
 }
 
 .crew-member-link-symbol svg {

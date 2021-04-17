@@ -1,15 +1,20 @@
 .cta--crowdfunding {
+  color: rgb(98, 8, 255);
   color: var(--secondary);
+  margin-top: 32px;
   margin-top: var(--spacing-xl);
+  margin-bottom: 64px;
   margin-bottom: calc(var(--spacing-xl) * 2);
 }
 
 .cta--crowdfunding::before {
+  background-color: rgb(5, 255, 165);
   background-color: var(--primary);
   border-radius: 50%;
   content: '';
   display: block;
   height: 56px;
+  margin: 32px 0;
   margin: var(--spacing-xl) 0;
   width: 56px;
 }
@@ -17,6 +22,7 @@
 @media (min-width: 48em) {
   .cta--crowdfunding::before {
     height: 108px;
+    margin: -64px 0 0 3%;
     margin: calc(var(--spacing-xl) * -2) 0 0 3%;
     position: absolute;
     width: 108px;
@@ -26,7 +32,9 @@
 .cta--crowdfunding h3,
 .cta--crowdfunding p,
 .cta--crowdfunding .digit {
+  font-family: 'Space Mono', monospace;
   font-family: var(--monospace);
+  font-size: 32px;
   font-size: var(--highlighted-text);
   font-style: normal;
   font-weight: normal;
@@ -35,22 +43,28 @@
 }
 
 .cta--crowdfunding .entity {
+  margin-right: 16px;
   margin-right: var(--spacing-m);
 }
 
 @media (min-width: 48em) {
   .cta--crowdfunding .entity {
+    margin-right: 32px;
     margin-right: var(--spacing-xl);
   } 
 }
 
 .cta--crowdfunding .digit {
+  font-size: 40px;
   font-size: var(--primary-headline);
   display: block;
 }
 
 .cta--crowdfunding p.cta-button {
+  font-size: 20px;
   font-size: var(--label-text);
+  margin-top: 32px;
   margin-top: var(--spacing-m);
+  margin-bottom: 8px;
   margin-bottom: var(--spacing-s);
 }

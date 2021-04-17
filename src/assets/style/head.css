@@ -1,18 +1,22 @@
 .page-header {
+  background-color: rgb(5, 255, 165);
   background-color: var(--primary);
 }
 
 @media (min-width: 80em) {
   .page-header--hero {
+      background: linear-gradient(180deg, rgb(5, 255, 165) 38.2%, rgb(255, 255, 255) 38.2%);
       background: linear-gradient(180deg, var(--primary) 38.2%, var(--background-color) 38.2%);
   }
 }
 
 .page-header-content {
+  padding: 24px 24px 40px;
   padding: var(--spacing-l) var(--spacing-l) 40px;
 }
 
 .page-header-content .symbol {
+  margin-right: 16px;
   margin-right: var(--spacing-m);
 }
 
@@ -20,6 +24,7 @@
 .page-header-hero {
   margin: 0 auto;
   position: relative;
+  max-width: 1280px;
   max-width: var(--max-width);
 }
 
@@ -31,22 +36,29 @@
 
 /* TODO: keep it positioned relative on smaller breakpoints  */
 .page-header-hero p {
+  background-color: rgb(98, 8, 255);
   background-color: var(--secondary);
+  color: rgb(255, 255, 255);
   color: var(--background-color);
   display: block;
+  font-family: 'Space Mono', monospace;
   font-family: var(--monospace);
+  font-size: 20px;
   font-size: var(--label-text);
   font-style: normal;
   font-weight: normal;
   line-height: 1;
   margin: 0;
+  padding: 8px 24px;
   padding: var(--spacing-s) var(--spacing-l);
   width: 100%;
 }
 
 @media (min-width: 40em) {
   .page-header-hero p {
+    border-radius: 32px;
     border-radius: var(--spacing-xl);
+    left: 32px;
     left: var(--spacing-xl);
     position: absolute;
     top: 0;

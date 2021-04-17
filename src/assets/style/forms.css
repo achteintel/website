@@ -8,6 +8,7 @@
 
 .sib-form-message-panel--active,
 .entry__error--primary {
+  color: rgb(98, 8, 255);
   color: var(--secondary);
 }
 
@@ -23,7 +24,9 @@
 }
 
 .sib-form-block {
+  margin-top: 24px; 
   margin-top: var(--spacing-l); 
+  margin-bottom: 24px; 
   margin-bottom: var(--spacing-l); 
 }
 
@@ -36,27 +39,34 @@
 }
 
 .entry__field {
+  margin-top: 8px;
   margin-top: var(--spacing-s);
+  margin-bottom: 8px;
   margin-bottom: var(--spacing-s);
 }
 
 label.entry__label,
 .entry__error--primary {
+  margin-left: 16px;
   margin-left: var(--spacing-m);
 }
 
 input[type="email"] {
   background: none;
   border: 1px solid;
+  border-radius: 32px;
   border-radius: var(--spacing-xl);
+  color: rgb(0, 0, 0);
   color: var(--text-color);
   display: block;
   font-family: inherit;
+  padding: 8px 16px;
   padding: var(--spacing-s) var(--spacing-m);
   width: 100%;
 }
 
 input[type="email"]:focus {
+  color: rgb(98, 8, 255);
   color: var(--secondary);
   outline: none;
 }
