@@ -19,7 +19,7 @@ Die Umsetzung dieser Ausstellungsidee wollen wir mit einer Crowdfuning Kampagne 
 
 - - -
 
-{% include "partials/components/countdown-clock.njk" %}
+{% include "partials/components/cta-crowdfunding.njk" %}
 
 - - -
 

@@ -7,7 +7,7 @@ const shortcodes = require('./utils/shortcodes.js');
 module.exports = function(eleventyConfig) {
   // Filters
   // VERSION
-  const currentVersion = 0.2;
+  const currentVersion = 0.3;
   eleventyConfig.addFilter("addVersion", function (string) {
     return `${eleventyConfig.getFilter("slug")(string)}${currentVersion}`;
   });
