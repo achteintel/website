@@ -18,7 +18,7 @@ Zur Finanzierung setzen wir gerade eine Crowdfunding-Kampagne auf, die am 20. Ap
 
 - - -
 
-{% include "partials/components/countdown-clock.njk" %}
+{% include "partials/components/cta-crowdfunding.njk" %}
 
 - - -
 
