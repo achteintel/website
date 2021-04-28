@@ -100,6 +100,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy('src/assets/fonts')
   eleventyConfig.addPassthroughCopy('src/assets/scripts')
   eleventyConfig.addPassthroughCopy('src/assets/app-icons')
+  eleventyConfig.addPassthroughCopy('src/downloads')
   eleventyConfig.addPassthroughCopy('src/manifest.json')
   eleventyConfig.addPassthroughCopy('src/_redirects')
 
