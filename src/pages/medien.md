@@ -7,8 +7,8 @@ metaDescription: Medienspiegel und Medienmitteilungen des achteintel—LitfassMu
 
 <h2 id="medienspiegel">Medienspiegel</h2>
 
-- [Die Schreibmaschine / 20.04.2021](https://dieschreibmaschine.net/2021/04/20/krimskrams-crowdfunding-aktion-fuer-das-achteintel-litfassmuseum/)
-- [Die Neue Welle / 22.04.2021](https://www.die-neue-welle.de/display-news/litfassmuseum-kunst-auf-litfasssaeulen-im-karlsruher-stadtgebiet)
+- <a href="https://dieschreibmaschine.net/2021/04/20/krimskrams-crowdfunding-aktion-fuer-das-achteintel-litfassmuseum/" rel="noopener" target="_blank">Die Schreibmaschine / 20.04.2021</a>
+- <a href="https://www.die-neue-welle.de/display-news/litfassmuseum-kunst-auf-litfasssaeulen-im-karlsruher-stadtgebiet" rel="noopener" target="_blank">Die Neue Welle / 22.04.2021</a>
 
 
 ---
@@ -25,4 +25,4 @@ Die Litfaßsäule ist der Dino der Werbewirtschaft. Um 1855 wirkten die ersten L
 
 Die Ausstellungsidee wird mit einer Crowdfunding Kampagne finanziert, diese läuft vom 20.04. bis zum 20.05. auf der Plattform wemakeit.com. Von dem dadurch eingenommenen Geld sollen die Litfaßsäulen vom Besitzer angemietet und die Druckkosten für knapp 40 Hochformate bezahlt werden. Außerdem soll den Kunstschaffenden ein kleines Honorar bezahlt werden, um ihnen auf diesem Weg etwas an Wertschätzung zurückgeben zu können. Als Dank für die Unterstützung bekommen die Unterstützer\*innen hochwertige, inspirierende und praktische InterventionsKits. Diese unterscheiden sich je nach Höhe des Beitrags. Somit kann dazu beigetragen werden Kreativität wieder sichtbar zu machen und im Gegenzug Anregungen für die eigene Kreativität zu erhalten.
 
-<p>Download: <a href="{{ '/downloads/medien/achteintel-litfassmuseum-medienmitteilung-2021-04-28.pdf' | url }}" download>Mittelung (PDF)</a></p>
+<p>Download: <a href="{{ '/downloads/medien/achteintel-litfassmuseum-medienmitteilung-2021-04-28.pdf' | url }}" download>Medienmittelung (PDF)</a></p>
