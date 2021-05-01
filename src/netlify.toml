@@ -1,0 +1,30 @@
+# Redirect default Netlify subdomain to primary domain
+[[redirects]]
+  from = "https://xenodochial-kare-34379a.netlify.app/*"
+  to = "https://achteintel.org/:splat"
+  status = 301
+  force = true
+
+# Redirect default Netlify subdomain to primary domain
+[[redirects]]
+  from = "https://fund.achteintel.org/"
+  to = "https://wemakeit.com/projects/achteintel-litfassmuseum/"
+  status = 301
+  force = true
+
+# Redirect newsletter-subdomain
+[[redirects]]
+  from = "https://newsletter.achteintel.org/"
+  to = "https://achteintel.org/newsletter/"
+  status = 301
+  force = true
+
+# Setting security and privacy headers
+[[headers]]
+  for = "/*"
+  [headers.values]
+      X-Frame-Options = "DENY"
+      X-XSS-Protection = "1; mode=block"
+      X-Content-Type-Options = "nosniff"
+      Referrer-Policy = "no-referrer-when-downgrade"
+      Permissions-Policy = "interest-cohort=()"

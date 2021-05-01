@@ -1,8 +1,0 @@
-# Redirect default Netlify subdomain to primary domain
-https://xenodochial-kare-34379a.netlify.app/* https://achteintel.org/:splat 301!
-
-# Redirect fund-subdomain
-https://fund.achteintel.org/ https://wemakeit.com/projects/achteintel-litfassmuseum 301!
-
-# Redirect newsletter-subdomain
-https://newsletter.achteintel.org/ https://achteintel.org/newsletter 301!

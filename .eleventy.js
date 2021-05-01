@@ -102,7 +102,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy('src/assets/app-icons')
   eleventyConfig.addPassthroughCopy('src/downloads')
   eleventyConfig.addPassthroughCopy('src/manifest.json')
-  eleventyConfig.addPassthroughCopy('src/_redirects')
+  eleventyConfig.addPassthroughCopy('src/netlify.toml')
 
   // Base Config
   return {
