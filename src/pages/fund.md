@@ -14,7 +14,7 @@ Zwölf ganze Litfaßsäulen wollen wir mit Kunst, Grafik, Illustration und Fotog
 
 Wir wollen Aufmerksamkeit erregen, Interesse wecken und Mut machen. Mit Werken, die über den Bildschirmrand hinaus in unseren Alltag wirken.
 
-Zur Finanzierung setzen wir gerade eine Crowdfunding-Kampagne auf, die am 20. April startet. Wir freuen uns auf deinen Besuch und deine Unterstützung. **Bist du dabei?**
+Zur Finanzierung setzen wir gerade eine Crowdfunding-Kampagne auf, die noch bis zum 20. Mai läuft. Wir freuen uns auf deinen Besuch und deine Unterstützung. **Bist du dabei?**
 
 - - -
 
