@@ -24,10 +24,6 @@ function updateStaticCache() {
         'assets/fonts/GT-Eesti-Display-Regular.woff2',
         'assets/fonts/space-mono-v6-latin-regular.woff2'
       ].concat(offlinePages));
-      // These items must be cached for the Service Worker to complete installation
-      return cache.addAll([
-        'assets/scripts/countdown.js?ver=' + version
-      ]);
     });
 }
 
