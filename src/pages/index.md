@@ -27,13 +27,18 @@ Die Umsetzung dieser Ausstellungsidee wollen wir mit einer Crowdfunding Kampagne
 
 Wir wollen die vielen leerstehenden Litfaßsäulen im Stadtgebiet Karlsruhe nutzen, und sie in ein Museum verwandeln. Den Stillstand des Kulturbetriebs unterbrechen wir damit und holen unser Museum in die Stadt. Unsere Stadt Unser Museum.
 
-Im Juli 2021 planen wir die erste Ausstellung des achteintel–LitfassMuseum für Karlsruhe. Hierfür wollen wir 12 ganze Litfaßsäulen mit Kunst, Grafik, Illustration und Fotografie von sechs Künstler\*innen aus der Region bespielen. Zur Umsetzung dieser Ausstellungsidee benötigen wir deine finanzielle Unterstützung.
+Die erste Ausstellung des achteintel–LitfassMuseum für Karlsruhe findet vom **23.07. bis 02.08.2021** statt. Hierfür bespielen wir 12 ganze Litfaßsäulen mit Kunst, Grafik und Illustration von sechs Künstler\*innen aus der Region. Zur Umsetzung dieser Ausstellungsidee benötigen wir deine finanzielle Unterstützung.
 
-{% responsiveImage './src/assets/img/konzept.jpg', 'Daniel Ehniss', '(min-width: 80em) 50vw, 100vw' %}
+{% responsiveImage './src/assets/img/achteintel-konzept-datum.jpg', 'achteintel—LitfassMuseum, 23.07.-02.08.2021, 12+1 Litfaßsäulen in Karlsruhe', '(min-width: 80em) 50vw, 100vw' %}
 
 Dort, in der Stadt wo viele von uns ihren Alltag verbringen brauchen wir die Intervention. Mit dieser Ausstellung wollen wir in seltsamen Zeiten positive Zeichen setzen.
 
-Für die Ausstellung planen wir für jede*n der sechs Künstler\*innen zwei identische Ganzsäulen mit jeweils drei unterschiedlichen Motiven. Die Werke bleiben für 10 Tage auf den Litfaßsäulen im Stadtgebiet ausgestellt.
+Für die Ausstellung planen wir für jede\*n der sechs Künstler\*innen zwei identische Ganzsäulen mit jeweils drei unterschiedlichen Motiven. Die Werke bleiben für 10 Tage auf den Litfaßsäulen im Stadtgebiet ausgestellt. Vier Künstler\*innen, aus der Region Karlsruhe, haben ihre Beteiligung bereits zugesagt:
+
+- <a href="https://michaelgibis.com" target="_blank" rel="noopener">Michael Gibis</a>
+- Carolin Segebrecht
+- <a href="https://www.instagram.com/deardeer.ac/" target="_blank" rel="noopener">DEAR DEER ART CONSPIRACY</a>
+- <a href="https://chiharukoda.com/" target="_blank" rel="noopener">Chiharu Koda</a>
 
 Um den Künstler\*innen während und über die Ausstellung hinaus eine Plattform zu geben, zeigen wir auf unserer Webseite achteintel.org alle Werke und stellen die Künstler\*innen mit einem kurzen Beitrag vor.
 
