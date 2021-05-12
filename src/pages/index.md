@@ -33,12 +33,9 @@ Die erste Ausstellung des achteintel–LitfassMuseum für Karlsruhe findet vom *
 
 Dort, in der Stadt wo viele von uns ihren Alltag verbringen brauchen wir die Intervention. Mit dieser Ausstellung wollen wir in seltsamen Zeiten positive Zeichen setzen.
 
-Für die Ausstellung planen wir für jede\*n der sechs Künstler\*innen zwei identische Ganzsäulen mit jeweils drei unterschiedlichen Motiven. Die Werke bleiben für 10 Tage auf den Litfaßsäulen im Stadtgebiet ausgestellt. Vier Künstler\*innen, aus der Region Karlsruhe, haben ihre Beteiligung bereits zugesagt:
+Für die Ausstellung planen wir für jede\*n der sechs Künstler\*innen zwei identische Ganzsäulen mit jeweils drei unterschiedlichen Motiven. Die Werke bleiben für 10 Tage auf den Litfaßsäulen im Stadtgebiet ausgestellt. Folgende Künstler\*innen, aus der Region Karlsruhe, haben ihre Beteiligung zugesagt:
 
-- <a href="https://michaelgibis.com" target="_blank" rel="noopener">Michael Gibis</a>
-- Carolin Segebrecht
-- <a href="https://www.instagram.com/deardeer.ac/" target="_blank" rel="noopener">DEAR DEER ART CONSPIRACY</a>
-- <a href="https://chiharukoda.com/" target="_blank" rel="noopener">Chiharu Koda</a>
+{% include "partials/components/artists-list.njk" %}
 
 Um den Künstler\*innen während und über die Ausstellung hinaus eine Plattform zu geben, zeigen wir auf unserer Webseite achteintel.org alle Werke und stellen die Künstler\*innen mit einem kurzen Beitrag vor.
 
@@ -63,3 +60,5 @@ Als Dank für deinen Support haben wir verschiedene InterventionsKits (IK) zusam
 {% include "partials/components/stay-in-touch.njk" %}
 
 {% include "partials/components/crew.njk" %}
+
+{% include "partials/components/media.njk" %}

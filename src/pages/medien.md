@@ -19,10 +19,7 @@ metaDescription: Medienspiegel und Medienmitteilungen des achteintel—LitfassMu
 
 ### Bestätigte Künstler\*innen
 
-- <a href="https://michaelgibis.com" target="_blank" rel="noopener">Michael Gibis</a>
-- Carolin Segebrecht
-- <a href="https://www.instagram.com/deardeer.ac/" target="_blank" rel="noopener">DEAR DEER ART CONSPIRACY</a>
-- <a href="https://chiharukoda.com/" target="_blank" rel="noopener">Chiharu Koda</a>
+{% include "partials/components/artists-list.njk" %}
 
 ---
 
@@ -38,10 +35,4 @@ Die Litfaßsäule ist der Dino der Werbewirtschaft. Um 1855 wirkten die ersten L
 
 Die Ausstellungsidee wird mit einer **Crowdfunding Kampagne** finanziert, diese läuft vom **20.04. bis zum 20.05. auf der Plattform wemakeit.com**. Von dem dadurch eingenommenen Geld sollen die Litfaßsäulen vom Besitzer angemietet und die Druckkosten für knapp 40 Hochformate bezahlt werden. Außerdem soll den Kunstschaffenden ein kleines Honorar bezahlt werden, um ihnen auf diesem Weg etwas an Wertschätzung zurückgeben zu können. Als Dank für die Unterstützung bekommen die Unterstützer\*innen hochwertige, inspirierende und praktische InterventionsKits. Diese unterscheiden sich je nach Höhe des Beitrags. Somit kann dazu beigetragen werden Kreativität wieder sichtbar zu machen und im Gegenzug Anregungen für die eigene Kreativität zu erhalten.
 
----
-
-<h2 id="medienspiegel">Medienspiegel</h2>
-
-- <a href="https://dieschreibmaschine.net/2021/04/20/krimskrams-crowdfunding-aktion-fuer-das-achteintel-litfassmuseum/" rel="noopener" target="_blank">Die Schreibmaschine / 20.04.2021</a>
-- <a href="https://www.die-neue-welle.de/display-news/litfassmuseum-kunst-auf-litfasssaeulen-im-karlsruher-stadtgebiet" rel="noopener" target="_blank">Die Neue Welle / 22.04.2021</a>
-- <a href="https://www.inka-magazin.de/kunst-design-artikeluebersicht.html" rel="noopener" target="_blank">INKA Magazin / 01.05.2021</a>
+{% include "partials/components/media.njk" %}
