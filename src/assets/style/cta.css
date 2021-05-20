@@ -5,6 +5,7 @@
   margin-top: var(--spacing-xl);
   margin-bottom: 64px;
   margin-bottom: calc(var(--spacing-xl) * 2);
+  position: relative;
 }
 
 .cta--crowdfunding::before {
@@ -23,7 +24,8 @@
   .cta--crowdfunding::before {
     height: 108px;
     margin: -64px 0 0 3%;
-    margin: calc(var(--spacing-xl) * -2) 0 0 3%;
+    margin: calc(var(--spacing-xl) * -2) 0 0 0;
+    right: 3%;
     position: absolute;
     width: 108px;
   }

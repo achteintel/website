@@ -8,17 +8,11 @@ heroImageAlt: 'Dino und Litfaßsäule'
 heroText: 'Das LitfassMuseum für Karlsruhe'
 ---
 
-## achteintel–LitfassMuseum
-
-Zwölf ganze Litfaßsäulen wollen wir mit Kunst, Grafik, Illustration und Fotografie bespielen, und so mit positiven Zeichen das Stadtbild von Karlsruhe erfrischen.
-
-Wir wollen Aufmerksamkeit erregen, Interesse wecken und Mut machen. Mit Werken, die über den Bildschirmrand hinaus in unseren Alltag wirken.
-
-Zur Finanzierung setzen wir gerade eine Crowdfunding-Kampagne auf, die noch bis zum 20. Mai läuft. Wir freuen uns auf deinen Besuch und deine Unterstützung. **Bist du dabei?**
+{% include "partials/components/content-intro.njk" %}
 
 - - -
 
-{% include "partials/components/cta-crowdfunding.njk" %}
+{% include "partials/components/cta-museum.njk" %}
 
 - - -
 

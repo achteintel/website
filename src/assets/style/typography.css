@@ -92,8 +92,8 @@ a:focus {
   text-decoration: none;
 }
 
-.page-header a:hover,
-.page-header a:focus {
+.page-header a:not(.button):hover,
+.page-header a:not(.button):focus {
   color: rgb(98, 8, 255);
   color: var(--secondary);
 }

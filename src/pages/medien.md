@@ -11,10 +11,12 @@ metaDescription: Medienspiegel und Medienmitteilungen des achteintel—LitfassMu
 
 - **23.07. – 02.08.2021** 
 - 12 + 1 Litfaßsäulen in Karlsruhe
+- <a download href="{{ '/downloads/achteintel.ics' | url }}">Kalendereintrag herunterladen (ICS-Format)</a>
 
 ### Crowdfunding Kampagne
 
 - **20.04. – 20.05.2021**
+- Erfolgreich finanziert durch 138 Unterstützer\*innen
 - [Zum Crowdfunding](https://wemakeit.com/projects/achteintel-litfassmuseum)
 
 ### Bestätigte Künstler\*innen
@@ -24,6 +26,18 @@ metaDescription: Medienspiegel und Medienmitteilungen des achteintel—LitfassMu
 ---
 
 <h2 id="medienmitteilungen">Medienmitteilungen</h2>
+
+### Crowdfunding Kampagne erfolgreich abgeschlossen – 20.05.2021
+
+**Das achteintel—LitfassMuseum kommt!** Am 20. Mai endete die **Crowdfunding Kampagne erfolgreich**. Das gesetzte Finanzierungsziel konnte mit der Hilfe von **138 Unterstützer\*innen** übertroffen werden. Zur Umsetzung der Ausstellungsidee steht nun ein Betrag von **11.140 Euro** zur Verfügung. 
+
+Die erste Ausstellung des achteintel—LitfassMuseum findet vom **23\. Juli bis zum 2\. August in Karlsruhe** statt. Auf 12 Litfaßsäulen werden Werke von **Carolin Segebrecht**, **DEAR DEER ART CONSPIRACY**, **Chiharu Koda**, **DOME**, **Jana Gruszeninks** und **Michael Gibis** ausgestellt. Die Künstler*innen bespielen je zwei identische Säulen. Auf einer zusätzlichen Informationssäule am Kronenplatz und der Webseite werden alle Säulen und deren Standorte gelistet, damit wird zu Erkundungstouren eingeladen.
+
+Mit Blick auf das Langzeitziel, das LitfassMuseum zu etablieren und in regelmäßigen Abständen Ausstellungen zu realisieren, geht die **Initiative achteintel um Michael Gibis und Daniel Ehniss** eine **Kooperation mit dem NUN Kulturraum e.V.** ein. 
+
+Aktuelle Informationen zum Stand der Ausstellung werden auf [achteintel.org](https://achteintel.org) veröffentlicht.
+
+- - -
 
 ### Kunst auf leeren Litfaßsäulen in Karlsruhe – das achteintel—LitfassMuseum
 
