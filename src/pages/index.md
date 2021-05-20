@@ -2,24 +2,18 @@
 layout: base
 title: achteintel–LitfassMuseum
 permalink: ./index.html
-metaDescription: Achteintel, das LitfassMuseum erfrischt das Stadtbild von Karlsruhe mit Kunst, Grafik, Illustration und Fotografie.
+metaDescription: Achteintel, das LitfassMuseum erfrischt mit der ersten Ausstellung vom 23.7 bis zum 2.8.21 das Stadtbild von Karlsruhe mit Kunst, Grafik und Illustration.
 heroImage: './src/assets/img/hero-01.jpg'
 heroImageAlt: 'Dino und Litfaßsäule'
 heroText: 'Das LitfassMuseum für Karlsruhe'
 
 ---
 
-## achteintel–LitfassMuseum
-
-Zwölf ganze Litfaßsäulen wollen wir mit Kunst, Grafik, Illustration und Fotografie bespielen, und so mit positiven Zeichen das Stadtbild von Karlsruhe erfrischen. 
-
-Wir wollen Aufmerksamkeit erregen, Interesse wecken und Mut machen. Mit Werken, die über den Bildschirmrand hinaus in unseren Alltag wirken.
-
-Die Umsetzung dieser Ausstellungsidee wollen wir mit einer Crowdfunding Kampagne finanzieren, die noch bis zum 20. Mai läuft. Unsere Stadt Unser Museum. **Bist du dabei?**
+{% include "partials/components/content-intro.njk" %}
 
 - - -
 
-{% include "partials/components/cta-crowdfunding.njk" %}
+{% include "partials/components/cta-museum.njk" %}
 
 - - -
 
@@ -53,7 +47,7 @@ Als Dank für deinen Support haben wir verschiedene InterventionsKits (IK) zusam
 
 - - -
 
-{% include "partials/components/cta-crowdfunding.njk" %}
+{% include "partials/components/cta-museum.njk" %}
 
 - - -
 

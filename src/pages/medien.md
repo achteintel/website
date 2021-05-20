@@ -11,10 +11,12 @@ metaDescription: Medienspiegel und Medienmitteilungen des achteintel—LitfassMu
 
 - **23.07. – 02.08.2021** 
 - 12 + 1 Litfaßsäulen in Karlsruhe
+- <a download href="{{ '/downloads/achteintel.ics' | url }}">Kalendereintrag herunterladen (ICS-Format)</a>
 
 ### Crowdfunding Kampagne
 
 - **20.04. – 20.05.2021**
+- Erfolgreich finanziert durch 128 Unterstützer\*innen
 - [Zum Crowdfunding](https://wemakeit.com/projects/achteintel-litfassmuseum)
 
 ### Bestätigte Künstler\*innen
