@@ -16,7 +16,7 @@ metaDescription: Medienspiegel und Medienmitteilungen des achteintel—LitfassMu
 ### Crowdfunding Kampagne
 
 - **20.04. – 20.05.2021**
-- Erfolgreich finanziert durch 138 Unterstützer\*innen
+- Erfolgreich finanziert durch 142 Unterstützer\*innen
 - [Zum Crowdfunding](https://wemakeit.com/projects/achteintel-litfassmuseum)
 
 ### Bestätigte Künstler\*innen
@@ -29,7 +29,7 @@ metaDescription: Medienspiegel und Medienmitteilungen des achteintel—LitfassMu
 
 ### Crowdfunding Kampagne erfolgreich abgeschlossen – 20.05.2021
 
-**Das achteintel—LitfassMuseum kommt!** Am 20. Mai endete die **Crowdfunding Kampagne erfolgreich**. Das gesetzte Finanzierungsziel konnte mit der Hilfe von **138 Unterstützer\*innen** übertroffen werden. Zur Umsetzung der Ausstellungsidee steht nun ein Betrag von **11.140 Euro** zur Verfügung. 
+**Das achteintel—LitfassMuseum kommt!** Am 20. Mai endete die **Crowdfunding Kampagne erfolgreich**. Das gesetzte Finanzierungsziel konnte mit der Hilfe von **142 Unterstützer\*innen** übertroffen werden. Zur Umsetzung der Ausstellungsidee steht nun ein Betrag von **11.383 Euro** zur Verfügung. 
 
 Die erste Ausstellung des achteintel—LitfassMuseum findet vom **23\. Juli bis zum 2\. August in Karlsruhe** statt. Auf 12 Litfaßsäulen werden Werke von **Carolin Segebrecht**, **DEAR DEER ART CONSPIRACY**, **Chiharu Koda**, **DOME**, **Jana Gruszeninks** und **Michael Gibis** ausgestellt. Die Künstler*innen bespielen je zwei identische Säulen. Auf einer zusätzlichen Informationssäule am Kronenplatz und der Webseite werden alle Säulen und deren Standorte gelistet, damit wird zu Erkundungstouren eingeladen.
 
