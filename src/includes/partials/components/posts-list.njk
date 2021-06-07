@@ -1,0 +1,11 @@
+{% set postslist = collections.post %}
+
+<ul reversed class="postlist nols">
+{% for post in postslist | reverse %}
+  <li class="postlist-item">
+    <p class="bottomless"><time class="postlist-date small text-tint" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time></p>
+    <h3 class="topless bottomless"><a href="{{ post.url | url }}" class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a></h3>
+    {% if post.data.excerpt %}<p>{{ post.data.excerpt | safe }}</p>{% endif %}
+  </li>
+{% endfor %}
+</ul>

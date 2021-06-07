@@ -51,6 +51,10 @@ Als Dank für deinen Support haben wir verschiedene InterventionsKits (IK) zusam
 
 - - -
 
+{% include "partials/components/latest-post.njk" %}
+
+- - -
+
 {% include "partials/components/stay-in-touch.njk" %}
 
 {% include "partials/components/crew.njk" %}

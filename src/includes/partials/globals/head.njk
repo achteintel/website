@@ -1,8 +1,5 @@
-{% set siteTitle = 'achteintel–LitfassMuseum' %}
-{% set siteUrl = 'https://achteintel.org' %}
-
-{% set pageTitle = title + ' - ' + siteTitle %}
-{% set currentUrl = siteUrl + page.url %}
+{% set pageTitle = title + ' - ' + metadata.title %}
+{% set currentUrl = metadata.url + page.url %}
 
 <!DOCTYPE html>
 <html dir="ltr" lang="de" prefix="og: http://ogp.me/ns#">
@@ -10,7 +7,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta property="og:site_name" content="{{ siteTitle }}" />
+    <meta property="og:site_name" content="{{ metadata.title }}" />
     <meta property="og:title" content="{{ pageTitle }}" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="{{ currentUrl }}" />
@@ -37,32 +34,34 @@
     {% if 'impressum' in page.url or 'offline' in page.url %}
       <title>{{ pageTitle }}</title>
     {% else %}
-      <title>{{ siteTitle }}</title>
+      <title>{{ metadata.title }}</title>
     {% endif %}
     <link rel="canonical" href="{{ currentUrl }}" />
     <style>
       {{ css | cssmin | safe }}
     </style>
+    <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
+    <link rel="alternate" href="{{ metadata.jsonfeed.path | url }}" type="application/json" title="{{ metadata.title }}">
   </head>
   <body>
     <div class="symbols-sprite" hidden>{% sprite %}</div>
     <header id="header" role="banner" class="page-header {% if heroImage %} page-header--hero {% endif %}">
       <div class="page-header-content flex-row flex-row--space-between">
         <h1 class="logo-title">
-          {% if 'impressum' in page.url or 'datenschutz' in page.url or 'offline' in page.url or 'fund' in page.url or 'newsletter' in page.url or 'medien' in page.url %}
+          {% if 'impressum' in page.url or 'datenschutz' in page.url or 'offline' in page.url or 'fund' in page.url or 'newsletter' in page.url or 'medien' in page.url or 'blog' in page.url %}
             <a class="logolink" href="{{ '/' | url }}">
               <span class="logo flex-row">
                 {% symbol "logo", "83.3", "70" %}
                 {% symbol "dino", "36.68", "78" %}
               </span>
-              <span class="label visually-hidden">{{ siteTitle }}</span>
+              <span class="label visually-hidden">{{ metadata.title }}</span>
             </a>
           {% else %}
             <span class="logo flex-row">
               {% symbol "logo", "83.3", "70" %}
               {% symbol "dino", "36.68", "78" %}
             </span>
-            <span class="label visually-hidden">{{ siteTitle }}</span>
+            <span class="label visually-hidden">{{ metadata.title }}</span>
           {% endif %}
         </h1>
         {% if 'newsletter' in page.url %}

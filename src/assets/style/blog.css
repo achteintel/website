@@ -1,0 +1,32 @@
+.meta {
+  border-top: 1px solid;
+  border-top-color: rgb(98, 8, 255);
+  border-top-color: var(--secondary);
+}
+
+@media (min-width: 48em) {
+  .meta {
+    text-align: right;
+  }
+}
+
+.postlist-item {
+  border-top: 1px solid;
+  margin-top: 64px;
+  margin-top: var(--spacing-xxl);
+}
+
+@media (min-width: 48em) {
+  .postlist-item {
+    padding-top: 32px;
+    padding-top: var(--spacing-xl);
+  }
+}
+
+.postlist-item > * {
+  max-width: 100% !important; /* NOTE: Needed because of the current layout of content with a max-width */
+}
+
+.postlist-item h3 + p {
+  margin-top: var(--spacing-s);
+}

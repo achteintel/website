@@ -57,9 +57,16 @@ input[type="email"] {
   font-size: var(--body-text);
 }
 
+.small,
+.page-content p.small,
 .page-footer {
   font-size: 20px;
   font-size: var(--label-text);
+}
+
+.text-tint {
+  color: rgb(87, 87, 87);
+  color: var(--text-tint);
 }
 
 strong {
@@ -103,7 +110,6 @@ button {
   -moz-appearance: none;
   -webkit-appearance: none;
   border: 0;
-
 }
 
 a.button,
@@ -150,25 +156,25 @@ a.button--primary:focus {
   color: var(--background-color);
 }
 
-.crew-member-link {
+.cta-link {
   text-decoration: none;
   display: flex;
 }
 
-.crew-member-link-symbol {
+.cta-link-symbol {
   display: inline-block;
   margin-right: 16px;
   margin-right: var(--spacing-m);
   transition: all 0.3s ease-in;
 }
 
-.crew-member-link:hover .crew-member-link-symbol,
-.crew-member-link:focus .crew-member-link-symbol {
+.cta-link:hover .cta-link-symbol,
+.cta-link:focus .cta-link-symbol {
   margin-right: 24px;
   margin-right: var(--spacing-l);
 }
 
-.crew-member-link-symbol svg {
+.cta-link-symbol svg {
   display: inline;
   height: 1em;
   vertical-align: middle;
@@ -191,7 +197,17 @@ a.inline-symbol svg {
   width: auto;
 }
 
+ul.meta li::after,
 .page-footer ul li:first-of-type::after {
   content: '/';
   display: inline;
+}
+
+ul.meta li::after {
+  margin: 0 0.35em;
+}
+
+ul.meta li:last-of-type::after {
+  display: none;
+  margin: 0;
 }

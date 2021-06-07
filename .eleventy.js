@@ -1,3 +1,5 @@
+const { DateTime } = require("luxon");
+const pluginRss = require("@11ty/eleventy-plugin-rss");
 const Image = require("@11ty/eleventy-img");
 const CleanCSS = require("clean-css");
 
@@ -5,6 +7,9 @@ const sprite = require('./utils/sprite.js');
 const shortcodes = require('./utils/shortcodes.js');
 
 module.exports = function(eleventyConfig) {
+  // Add Plugins
+  eleventyConfig.addPlugin(pluginRss);
+
   // Filters
   // VERSION
   const currentVersion = 0.5;
@@ -28,7 +33,8 @@ module.exports = function(eleventyConfig) {
     const cta = './src/assets/style/cta.css';
     const layout = './src/assets/style/layout.css';
     const forms = './src/assets/style/forms.css';
-    return new CleanCSS({ inline: ['local'] }).minify([normalize, variables, fonts, base, typography, head, cta, layout, forms]).styles;
+    const blog = './src/assets/style/blog.css';
+    return new CleanCSS({ inline: ['local'] }).minify([normalize, variables, fonts, base, typography, head, cta, layout, forms, blog]).styles;
   });
 
   // Handle Images
@@ -93,8 +99,27 @@ module.exports = function(eleventyConfig) {
     watch: true
   })
 
+  // Use luxon to generate readable date
+  eleventyConfig.addFilter("readableDate", dateObj => {
+    return DateTime.fromJSDate(dateObj, { zone: 'cet' }).setLocale('de').toFormat("dd. LLLL yyyy");
+  });
+
+  // https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
+  eleventyConfig.addFilter('htmlDateString', (dateObj) => {
+    return DateTime.fromJSDate(dateObj, { zone: 'cet' }).toFormat('yyyy-LL-dd');
+  });
+
+  // Get the first `n` elements of a collection.
+  eleventyConfig.addFilter('head', (array, n) => {
+    if (n < 0) {
+      return array.slice(n);
+    }
+    return array.slice(0, n);
+  });
+
   // Layouts
   eleventyConfig.addLayoutAlias('base', 'base.njk')
+  eleventyConfig.addLayoutAlias('post', 'post.njk')
   
   // Pass-through directories/files
   eleventyConfig.addPassthroughCopy('src/assets/fonts')
@@ -110,7 +135,8 @@ module.exports = function(eleventyConfig) {
       input: 'src',
       output: 'dist',
       includes: 'includes',
-      layouts: 'includes/layouts'
+      layouts: 'includes/layouts',
+      data: 'data'
     },
     templateFormats: ['njk', 'md'],
     htmlTemplateEngine: 'njk',
