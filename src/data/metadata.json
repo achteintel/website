@@ -1,13 +1,13 @@
 {
   "title": "achteintel–LitfassMuseum",
-  "url": "https://achteintel.org",
+  "url": "https://achteintel.org/",
   "language": "de-DE",
   "description": "Achteintel, das LitfassMuseum erfrischt mit der ersten Ausstellung vom 23.7 bis zum 2.8.21 das Stadtbild von Karlsruhe mit Kunst, Grafik und Illustration.",
   "feed": {
     "subtitle": "Wir schreiben über das achteintel—LitfassMuseum in Karlsruhe.",
     "filename": "feed.xml",
     "path": "/feeds/feed.xml",
-    "id": "https://achteintel.org"
+    "id": "https://achteintel.org/"
   },
   "jsonfeed": {
     "path": "/feeds/feed.json",

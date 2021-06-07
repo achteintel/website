@@ -1,4 +1,5 @@
-.meta {
+.meta,
+.postlist-item {
   border-top: 1px solid;
   border-top-color: rgb(98, 8, 255);
   border-top-color: var(--secondary);
@@ -11,7 +12,6 @@
 }
 
 .postlist-item {
-  border-top: 1px solid;
   margin-top: 64px;
   margin-top: var(--spacing-xxl);
 }

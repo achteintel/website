@@ -101,12 +101,12 @@ module.exports = function(eleventyConfig) {
 
   // Use luxon to generate readable date
   eleventyConfig.addFilter("readableDate", dateObj => {
-    return DateTime.fromJSDate(dateObj, { zone: 'cet' }).setLocale('de').toFormat("dd. LLLL yyyy");
+    return DateTime.fromJSDate(dateObj).toFormat("dd.LL.yyyy");
   });
 
   // https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
   eleventyConfig.addFilter('htmlDateString', (dateObj) => {
-    return DateTime.fromJSDate(dateObj, { zone: 'cet' }).toFormat('yyyy-LL-dd');
+    return DateTime.fromJSDate(dateObj).toFormat('yyyy-LL-dd');
   });
 
   // Get the first `n` elements of a collection.
