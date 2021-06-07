@@ -1,0 +1,15 @@
+{% set postslist = collections.post %}
+
+{% for post in postslist | head(-1) %}
+<h2>Frisch im Blog</h2>
+<article>
+  <h3 class="topless bottomless">{{ post.data.title }}</h3>
+  {% if post.data.excerpt %}<p>{{ post.data.excerpt | safe }}</p>{% endif %}
+  <p><a class="cta-link" href="{{ post.url | url }}">
+    <span class="cta-link-symbol">
+      {% symbol "arrow-right", "65.9", "30" %}
+    </span>
+    <span class="label">weiterlesen</span>
+  </a></p>
+</article>
+{% endfor %}

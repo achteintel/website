@@ -1,0 +1,22 @@
+{% include "partials/globals/head.njk" %}
+<main id="main" class="page-content">
+  <article class="hentry">
+    <header>
+      <h2 class="p-name bottomless">{{ title | safe }}</h2>
+      <ul class="meta nols inline topless text-tint">
+        <li class="meta-data small p-author">{{ author | safe }}</li><!--
+      --><li class="meta-data small"><time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time></li>
+      </ul>
+    </header>
+    <div class="entry">
+      {{ content | safe }}
+    </div>
+  </article>
+  <p><a class="cta-link" href="{{ '/blog/' | url }}">
+    <span class="cta-link-symbol">
+      {% symbol "arrow-right", "65.9", "30" %}
+    </span>
+    <span class="label">Zur Blog Übersicht</span>
+  </a></p>
+</main>
+{% include "partials/globals/footer.njk" %}

@@ -5,6 +5,7 @@
 :root {
   /* COLORS */
   --background-color: rgb(255, 255, 255);
+  --text-tint: rgb(87, 87, 87);
   --text-color: rgb(0, 0, 0);
   --primary: rgb(5, 255, 165);
   --secondary: rgb(98, 8, 255);
@@ -34,6 +35,7 @@
 @media (prefers-color-scheme: dark) {
   :root {
     --background-color: rgb(0, 0, 0);
+    --text-tint: rgb(150, 150, 150);
     --text-color: rgb(255, 255, 255);
     --primary: rgb(98, 8, 255);
     --secondary: rgb(5, 255, 165);

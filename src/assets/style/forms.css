@@ -51,6 +51,10 @@ label.entry__label,
   margin-left: var(--spacing-m);
 }
 
+.entry__error--primary:empty {
+  margin: 0;
+}
+
 input[type="email"] {
   background: none;
   border: 1px solid;
