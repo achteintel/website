@@ -101,7 +101,7 @@ module.exports = function(eleventyConfig) {
 
   // Use luxon to generate readable date
   eleventyConfig.addFilter("readableDate", dateObj => {
-    return DateTime.fromJSDate(dateObj).setLocale('de-DE').toFormat("dd. LLLL yyyy");
+    return DateTime.fromJSDate(dateObj).toFormat("dd.LL.yyyy");
   });
 
   // https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
