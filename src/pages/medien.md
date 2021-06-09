@@ -39,7 +39,7 @@ Aktuelle Informationen zum Stand der Ausstellung werden auf [achteintel.org](htt
 
 - - -
 
-### Kunst auf leeren Litfaßsäulen in Karlsruhe – das achteintel—LitfassMuseum
+### Kunst auf leeren Litfaßsäulen in Karlsruhe – das achteintel—LitfassMuseum – 28.04.2021
 
 Der Kulturbetrieb in Karlsruhe liegt weitestgehend brach, die leeren Litfaßsäulen machen diesen Stillstand deutlich sichtbar. **Das achteintel—LitfassMuseum will Kreativität wieder sichtbar machen und das Stadtbild erfrischen**.
 
