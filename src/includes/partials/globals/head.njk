@@ -18,6 +18,8 @@
     {% endif %}
     {% if ogImage %}
       {% handleOgImage ogImage, ogImageAlt %}
+    {% elseif heroImage %}
+      {% handleOgImage heroImage, heroImageAlt %}
     {% else %}
       {% handleOgImage './src/assets/img/og-image.jpg', 'Eine Litfaßsäule des achteintel—LitfassMuseum mit einem Dinosaurier und dem Slogan Unsere Stadt Unser Museum' %}
     {% endif %}
