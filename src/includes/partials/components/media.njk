@@ -4,7 +4,7 @@
 
 <ul class="media-digest">
 {% for item in media_digest %}
-  <li class="media-digest.item">
+  <li class="media-digest-item">
     <a href="{{ item.url | url }}" rel="noopener" target="_blank">{{ item.outlet }} / {{ item.date | readableDate }}</a>
   </li>
 {% endfor %}
