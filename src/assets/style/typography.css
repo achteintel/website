@@ -179,6 +179,10 @@ a.button--primary:focus {
   margin-right: var(--spacing-l);
 }
 
+.cta-link .label {
+  text-decoration: underline;
+}
+
 .cta-link-symbol svg {
   display: inline;
   height: 1em;
