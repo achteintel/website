@@ -47,10 +47,6 @@ Als Dank für deinen Support haben wir verschiedene InterventionsKits (IK) zusam
 
 - - -
 
-{% include "partials/components/cta-museum.njk" %}
-
-- - -
-
 {% include "partials/components/latest-post.njk" %}
 
 - - -
