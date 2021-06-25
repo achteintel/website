@@ -1,6 +1,5 @@
-- Carolin Segebrecht
-- DEAR DEER ART CONSPIRACY
-- Chiharu Koda
-- DOME
-- Jana Gruszeninks
-- Michael Gibis
+<ul>
+{% for item in artists_01 %}
+  <li>{{ item.name | safe }}</li>
+{% endfor %}
+</ul>
