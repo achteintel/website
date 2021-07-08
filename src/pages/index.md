@@ -9,7 +9,11 @@ heroText: 'Das LitfassMuseum für Karlsruhe'
 
 ---
 
-{% include "partials/components/content-intro.njk" %}
+## Die erste Ausstellung des achteintel—LitfassMuseum findet vom 23. Juli bis zum 2. August in Karlsruhe statt.
+
+Auf 12 Litfaßsäulen werden Werke von **Carolin Segebrecht**, **DEAR DEER ART CONSPIRACY**, **Chiharu Koda**, **DOME**, **Jana Gruszeninks** und **Michael Gibis** ausgestellt. Die Künstler*innen bespielen je zwei identische Säulen. Auf einer zusätzlichen Informationssäule am Kronenplatz und hier werden alle Säulen und deren Standorte gelistet.
+
+Aus dem Verbund der Litfaßsäulen entsteht ein Museum im öffentlichen Raum. Jede dieser Säulen ist ein nach außen gewölbter Ausstellungsraum. Die Kunstwerke können einzeln betrachtet oder auf einer Tour entlang der Litfaßsäulen als gesamte Ausstellung erkundet werden.
 
 - - -
 
@@ -17,33 +21,12 @@ heroText: 'Das LitfassMuseum für Karlsruhe'
 
 - - -
 
-## Kann von leeren Litfaßsäulen ein kreativer Impuls ausgehen?
+Die Litfaßsäule ist der Dino der Werbewirtschaft. Um 1855 wirkten die ersten Litfaßsäulen als Kreativmotor und Beginn der Kreativwirtschaft. Heute, 166 Jahre später, nutzt die Initiative achteintel um Michael Gibis und Daniel Ehniss diese Säulen, um die Kreativität im Stadtbild wieder sichtbar zu machen, Aufmerksamkeit zu erregen, Interesse zu wecken und Mut zu machen. Kunst findet ihren Weg in unsere Stadt und erhellt den Alltag.
 
-Wir wollen die vielen leerstehenden Litfaßsäulen im Stadtgebiet Karlsruhe nutzen, und sie in ein Museum verwandeln. Den Stillstand des Kulturbetriebs unterbrechen wir damit und holen unser Museum in die Stadt. Unsere Stadt Unser Museum.
+Das achteintel-Format (8 mal Din A1), ist das schmale Hochformat der Litfaßsäule. Drei dieser Plakatformate füllen eine ganze Säule.
 
-Die erste Ausstellung des achteintel–LitfassMuseum für Karlsruhe findet vom **23.07. bis 02.08.2021** statt. Hierfür bespielen wir 12 ganze Litfaßsäulen mit Kunst, Grafik und Illustration von sechs Künstler\*innen aus der Region. Zur Umsetzung dieser Ausstellungsidee benötigen wir deine finanzielle Unterstützung.
+Die erste Ausstellung des achteintel—LitfassMuseum wurde durch den Beitrag von **142 Unterstützer\*innen** als **Crowdfunding Projekt** finanziert.
 
-{% responsiveImage './src/assets/img/achteintel-konzept-datum.jpg', 'achteintel—LitfassMuseum, 23.07.-02.08.2021, 12+1 Litfaßsäulen in Karlsruhe', '(min-width: 80em) 50vw, 100vw' %}
-
-Dort, in der Stadt wo viele von uns ihren Alltag verbringen brauchen wir die Intervention. Mit dieser Ausstellung wollen wir in seltsamen Zeiten positive Zeichen setzen.
-
-Für die Ausstellung planen wir für jede\*n der sechs Künstler\*innen zwei identische Ganzsäulen mit jeweils drei unterschiedlichen Motiven. Die Werke bleiben für 10 Tage auf den Litfaßsäulen im Stadtgebiet ausgestellt. Folgende Künstler\*innen, aus der Region Karlsruhe, haben ihre Beteiligung zugesagt:
-
-{% include "partials/components/artists-list.njk" %}
-
-Um den Künstler\*innen während und über die Ausstellung hinaus eine Plattform zu geben, zeigen wir auf unserer Webseite achteintel.org alle Werke und stellen die Künstler\*innen mit einem kurzen Beitrag vor.
-
-Auf einer zusätzlichen Informationssäule in der Stadt, und ebenso auf der Webseite, werden die Standorte aller Säulen gelistet. Interessierte können von dort aus zu Erkundungstouren aufbrechen. Die Werke wirken sowohl einzeln als auch im Verbund, in diesem Sinne verstehen wir sie als Museum, dass in den Alltag der Menschen kommt.
-
-### Unsere Stadt Unser Museum
-
-Als es vor ca. 166 Jahren die ersten Litfaßsäulen gab, waren sie der Beginn der Kreativwirtschaft. In diesen seltsamen Zeiten wollen wir von diesem Punkt ausgehen: uns motiviert, dass visuelle Kunst nicht nur schön ist, sondern aneckt und zum Denken und Handeln anregt. Wir wollen einen Neustart des Kreativmotors und holen uns in Zeiten des Stillstands unser Museum in die Stadt um Karlsruhe mit kreativen Werken aus Kunst, Grafik, Illustration und Fotografie zu erfrischen. Unsere Stadt Unser Museum.
-
-### Den Künstler\*innen etwas zurückgeben
-
-Für die Finanzierung der ersten Ausstellung des achteintel–LitfassMuseum im Juli, benötigen wir deine Hilfe. Die Litfaßsäulen im Stadtgebiet müssen im angestrebten Zeitraum vom Besitzer gemietet werden. Zusätzlich fallen Druckkosten für knapp 40 Hochformate (1190x3560mm) an. Darüber hinaus ist es uns wichtig den Künstler\*innen ein Honorar zu bezahlen, um ihnen auf diesem Weg etwas an Wertschätzung zurückgeben zu können.
-
-Als Dank für deinen Support haben wir verschiedene InterventionsKits (IK) zusammengestellt. Je nachdem mit welchem Betrag du das temporäre achteintel-LitfassMuseum unterstützen möchtest, bekommst du von uns hochwertige, inspirierende und praktische Kits zur Hand. Hilf dabei den Kreativmotor anzuwerfen und erhalte Anregungen für deine eigene Kreativität.
 
 - - -
 
