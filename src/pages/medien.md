@@ -23,6 +23,13 @@ metaDescription: Medienspiegel und Medienmitteilungen des achteintel—LitfassMu
 
 {% include "partials/components/artists-list.njk" %}
 
+### Downloads
+
+<ul>
+  <li><a download href="https://downloads.achteintel.org/logos.zip">Logos herunterladen</a></li>
+  <li><a download href="https://downloads.achteintel.org/bilder.zip">Bilder herunterladen</a></li>
+</ul>
+
 ---
 
 <h2 id="medienmitteilungen">Medienmitteilungen</h2>

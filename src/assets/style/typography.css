@@ -29,6 +29,7 @@ h1,
 h2 {
   font-size: 40px;
   font-size: var(--primary-headline);
+  line-height: 1.35;
 }
 
 h3,
