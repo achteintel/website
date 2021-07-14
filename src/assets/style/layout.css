@@ -151,6 +151,11 @@
   margin-top: var(--spacing-xl);
 }
 
+.top-spacing--gap {
+  margin-top: 32px;
+  margin-top: var(--gap);
+}
+
 .topless {
   margin-top: 0;
   padding-top: 0;

@@ -17,6 +17,8 @@ Aus dem Verbund der Litfaßsäulen entsteht ein Museum im öffentlichen Raum. Je
 
 ### Die Künstler\*innen
 
+Im Folgenden stellen wir die Künstler\*innen der ersten Ausstellung des achteintel—LitfassMuseum kurz vor:
+
 {% include "partials/components/artists-list-extended.njk" %}
 
 - - -
