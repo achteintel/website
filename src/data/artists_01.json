@@ -3,36 +3,48 @@
     "name": "Carolin Segebrecht",
     "bio": "lebt mit ihrem Hund Ringo in Karlsruhe und zeichnet ihre von Alltagszenen inspirierten Comics ausschließlich analog. Bleistift und Tuschestift, Fineliner und Aquarell.",
     "url": "",
-    "avatar": ""
+    "avatar": "./src/assets/img/carolin-segebrecht.jpeg",
+    "column-01": "02",
+    "column-02": "09"
   },
   {
     "name": "DEAR DEER ART CONSPIRACY",
     "bio": "verteilt seit 15 Jahren weiße Rehe im urbanen und ländlichen Raum. Papier und Kleister, Dose, Pinsel, Kreide und Sticker. Auch großformatige Bilder und Leinwände für den Innenraum erscheinen in unregelmäßigen Abständen.",
     "url": "https://www.instagram.com/deardeer.ac/",
-    "avatar": ""
+    "avatar": "./src/posts/2021/05/news-06/opener-06.jpg",
+    "column-01": "03",
+    "column-02": "12"
   },
   {
     "name": "Chiharu Koda",
     "bio": "lebt und arbeitet in Mimasaka, Japan und Karlsruhe. In ihren Arbeiten setzt sie sich thematisch mit der Beziehung zwischen Zeit und Erinnerung auseinander. Eines ihrer Interessengebiete ist die Betrachtung der unterschiedlichen und auch ähnlichen Natur in ihrer japanischen Heimat und der Regionen Schwarzwald und Pfalz.",
     "url": "https://chiharukoda.com/",
-    "avatar": ""
+    "avatar": "./src/posts/2021/05/news-07/chiharu-koda.jpg",
+    "column-01": "01",
+    "column-02": "05"
   },
   {
     "name": "DOME",
     "bio": "entdeckte 1994, fasziniert von Kunst im öffentlichen Raum, die Sprühdose und begann Wände zu bemalen. Zentrales Thema seiner Arbeiten ist der Mensch. Seine Werke werden bereits seit 20 Jahren europaweit aus- gestellt. Leinwand oder Fassade. Seine Figuren erweckt er mit Schablonen, Sprühdosen, Bleistift, Tusche, Acryl, Blattgold und Pinsel zum Leben.",
     "url": "https://www.domeone.de/",
-    "avatar": ""
+    "avatar": "./src/posts/2021/05/news-07/dome.jpg",
+    "column-01": "08",
+    "column-02": "04"
   },
   {
     "name": "Jana Gruszeninks",
     "bio": "setzt für ihre grafischen Arbeiten gerne analoge Elemente ein. In ihrer Acrylmalerei spiegelt sich das Grafische durch die Komposition wieder und versucht stets die Balance zwischen Farbe und Form zu finden. Sie liebt es aus dem Impuls heraus zu malen.",
     "url": "https://www.gruszeninks.com/",
-    "avatar": ""
+    "avatar": "./src/posts/2021/05/news-08/jana-gruszeninks.jpg",
+    "column-01": "07",
+    "column-02": "10"
   },
   {
     "name": "Michael Gibis",
     "bio": "beschäftigt sich mit den Themen Fotografie und Illustration. Analog und Digital. Inspiration findet er im Spannungsfeld zwischen Ruhe und Bewegung. Das Streben nach Authentizität, handwerklicher Qualität und die Freude am Machen bilden das Fundament seiner Arbeiten.",
     "url": "https://michaelgibis.com/",
-    "avatar": ""
+    "avatar": "./src/posts/2021/05/news-09/michael-gibis.jpg",
+    "column-01": "06",
+    "column-02": "11"
   }
 ]

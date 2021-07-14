@@ -1,0 +1,9 @@
+<ul class="nols grid-container">
+{% for item in artists_01 %}
+  <li class="grid-container-element">
+    {% if item.avatar %}{% responsiveImage item.avatar, item.name, '(min-width: 48em) 50vw, 100vw' %}{% endif %}
+    <h4 class="inline">{% if item.url %}<a href="{{ item.url | url }}" target="_blank">{{ item.name | safe }}</a>{% else %}<strong>{{ item.name | safe }}</strong>{% endif %}</h4>
+    <p>{{ item.bio | safe }}</p>
+  </li>
+{% endfor %}
+</ul>

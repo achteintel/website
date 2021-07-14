@@ -38,6 +38,16 @@ h4 {
   font-size: var(--secondary-headline);
 }
 
+h4.inline {
+  display: inline;
+  margin: 0;
+}
+
+h4.inline + p {
+  display: inline;
+  margin-top: 0;
+}
+
 h2,
 h3 {
   margin-top: 64px;
@@ -58,7 +68,8 @@ h3 + p {
 .page-content p,
 .page-content ul,
 .page-content ol,
-input[type="email"] {
+input[type="email"],
+h4.inline {
   font-size: 30px;
   font-size: var(--body-text);
 }

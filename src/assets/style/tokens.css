@@ -28,6 +28,7 @@
   --spacing-l: 24px;
   --spacing-xl: 32px;
   --spacing-xxl: 40px;
+  --gap: 32px;
   --avatar: 150px;
   --max-width: 1280px;
 }
@@ -50,6 +51,7 @@
     --body-text: 22px;
     --label-text: 18px;
     --spacing-xxl: 64px;
+    --gap: 40px;
     --avatar: 120px;
   }
 }
@@ -68,5 +70,6 @@
     --body-text: 30px;
     --label-text: 20px;
     --spacing-xxl: 80px;
+    --gap: 64px;
   }
 }

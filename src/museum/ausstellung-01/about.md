@@ -15,14 +15,32 @@ Aus dem Verbund der Litfaßsäulen entsteht ein Museum im öffentlichen Raum. Je
 
 - - -
 
-{% include "partials/components/cta-museum.njk" %}
+### Die Künstler\*innen
+
+{% include "partials/components/artists-list-extended.njk" %}
 
 - - -
+
+### Finanziert mit der Crowd
+
+Die erste Ausstellung des achteintel—LitfassMuseum wurde durch den Beitrag von 142 Unterstützer\*innen als Crowdfunding Projekt finanziert.
+
+- - -
+
+### Standorte der Litfaßsäulen
+
+Für Eure Erkundungstouren durchs LitfassMuseum haben wir Karten bei Apple und Google vorbereitet. Darauf sind alle Litfaßsäulen eingetragen. Jede Litfaßsäule trägt den Namen der Künstlerin oder des Künstlers deren Werke dort ausgestellt werden.
+
+- <a href="https://achteintel.org/museum/ausstellung-01/apple-maps" target="_blank" rel="noopener">Apple Maps</a>
+- <a href="https://achteintel.org/museum/ausstellung-01/google-maps" target="_blank" rel="noopener">Google Maps</a>
+
+- - -
+
+### Warum ein LitfassMuseum?
 
 Die Litfaßsäule ist der Dino der Werbewirtschaft. Um 1855 wirkten die ersten Litfaßsäulen als Kreativmotor und Beginn der Kreativwirtschaft. Heute, 166 Jahre später, nutzt die Initiative achteintel um Michael Gibis und Daniel Ehniss diese Säulen, um die Kreativität im Stadtbild wieder sichtbar zu machen, Aufmerksamkeit zu erregen, Interesse zu wecken und Mut zu machen. Kunst findet ihren Weg in unsere Stadt und erhellt den Alltag.
 
+### Warum achteintel?
+
 Das achteintel-Format (8 mal Din A1), ist das schmale Hochformat der Litfaßsäule. Drei dieser Plakatformate füllen eine ganze Säule.
 
-- - -
-
-Die erste Ausstellung des achteintel—LitfassMuseum wurde durch den Beitrag von 142 Unterstützer\*innen als Crowdfunding Projekt finanziert.
