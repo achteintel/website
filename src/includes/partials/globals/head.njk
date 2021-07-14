@@ -66,10 +66,18 @@
             <span class="label visually-hidden">{{ metadata.title }}</span>
           {% endif %}
         </h1>
-        {% if 'newsletter' in page.url %}
-        {% else %}
-          <a class="button" href="{{ '/newsletter/' | url }}">Newsletter <span class="visually-hidden--small">abonnieren</span></a>
-        {% endif %}
+        
+
+        {% set navPages = collections.all | eleventyNavigation %}
+        <nav class="main-nav" aria-label="main">
+          <ul class="nols inline">
+          {%- for entry in navPages %}
+            <li {% if entry.url == page.url %} class="current-nav-item"{% endif %}>
+              <a href="{{ entry.url | url }}">{{ entry.title }}</a>
+            </li>
+          {%- endfor %}
+          </ul>
+        </nav>
       </div>
       {% if heroImage %}
         <div class="page-header-hero">

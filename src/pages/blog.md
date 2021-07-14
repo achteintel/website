@@ -3,6 +3,9 @@ layout: base
 title: Blog
 permalink: ./blog/index.html
 metaDescription: Blog des achteintel—LitfassMuseum.
+eleventyNavigation:
+  key: Blog
+  order: 2
 ---
 
 ## Blog

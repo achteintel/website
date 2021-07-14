@@ -1,6 +1,7 @@
 const { DateTime } = require("luxon");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const Image = require("@11ty/eleventy-img");
+const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const CleanCSS = require("clean-css");
 
 const sprite = require('./utils/sprite.js');
@@ -9,6 +10,7 @@ const shortcodes = require('./utils/shortcodes.js');
 module.exports = function(eleventyConfig) {
   // Add Plugins
   eleventyConfig.addPlugin(pluginRss);
+  eleventyConfig.addPlugin(eleventyNavigationPlugin);
 
   // Filters
   // VERSION
@@ -32,9 +34,10 @@ module.exports = function(eleventyConfig) {
     const head = './src/assets/style/head.css';
     const cta = './src/assets/style/cta.css';
     const layout = './src/assets/style/layout.css';
+    const navigation = './src/assets/style/navigation.css';
     const forms = './src/assets/style/forms.css';
     const blog = './src/assets/style/blog.css';
-    return new CleanCSS({ inline: ['local'] }).minify([normalize, variables, fonts, base, typography, head, cta, layout, forms, blog]).styles;
+    return new CleanCSS({ inline: ['local'] }).minify([normalize, variables, fonts, base, typography, head, cta, layout, navigation, forms, blog]).styles;
   });
 
   // Handle Images

@@ -1,0 +1,25 @@
+.main-nav {
+  font-size: 22px;
+  font-size: var(--body-text);
+  margin-left: var(--spacing-s);
+}
+
+.main-nav ul li {
+  margin-right: var(--spacing-m);
+}
+
+@media (min-width: 48em) {
+ .main-nav ul li {
+    margin-right: var(--spacing-xl);
+  } 
+}
+
+.main-nav ul li:last-of-type {
+  margin-right: 0;
+}
+
+.main-nav ul li.current-nav-item a {
+  color: rgb(98, 8, 255);
+  color: var(--secondary);
+  text-decoration: underline;
+}

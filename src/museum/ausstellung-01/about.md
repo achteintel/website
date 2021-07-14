@@ -5,6 +5,9 @@ permalink: ./museum/ausstellung-01/index.html
 metaDescription: Die erste Ausstellung des achteintel—LitfassMuseum findet vom 23. Juli bis zum 2. August in Karlsruhe statt.
 heroImage: './src/assets/img/ausstellung-02-hero.jpeg'
 heroImageAlt: 'Karte mit den Standorten der Litfaßsäulen der ersten Ausstellung vom 23.07. bis 02.08. in Karlsruhe'
+eleventyNavigation:
+  key: Museum
+  order: 1
 ---
 
 ## Die erste Ausstellung des achteintel—LitfassMuseum findet vom 23. Juli bis zum 2. August in Karlsruhe statt.
