@@ -62,11 +62,22 @@
   display: block;
 }
 
+.cta--crowdfunding p.cta-link-container,
 .cta--crowdfunding p.cta-button {
-  font-size: 20px;
-  font-size: var(--label-text);
   margin-top: 32px;
   margin-top: var(--spacing-m);
   margin-bottom: 8px;
   margin-bottom: var(--spacing-s);
+}
+
+.cta--crowdfunding p.cta-link-container {
+  font-family: 'Eesti Regular', sans-serif;
+  font-family: var(--copy-text);
+  font-size: 22px;
+  font-size: var(--body-text);
+}
+
+.cta--crowdfunding p.cta-button {
+  font-size: 20px;
+  font-size: var(--label-text);
 }

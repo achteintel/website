@@ -174,8 +174,8 @@ a.button--primary:focus {
 }
 
 .cta-link {
-  text-decoration: none;
   display: flex;
+  text-decoration: none;
 }
 
 .cta-link-symbol {
