@@ -25,14 +25,47 @@ metaDescription: Medienspiegel und Medienmitteilungen des achteintel—LitfassMu
 
 ### Downloads
 
-<ul>
-  <li><a download href="https://downloads.achteintel.org/logos.zip">Logos herunterladen</a></li>
-  <li><a download href="https://downloads.achteintel.org/bilder.zip">Bilder herunterladen</a></li>
-</ul>
+- <a download href="https://downloads.achteintel.org/logos.zip">Logos herunterladen</a>
+- <a download href="https://downloads.achteintel.org/bilder.zip">Bilder herunterladen</a>
+- <a download href="https://downloads.achteintel.org/achteintel-Ausstellungsflyer.zip">Ausstellungsflyer herunterladen</a>
+
+
+### Interaktive Karten
+
+- <a href="https://achteintel.org/museum/ausstellung-01/apple-maps" target="_blank" rel="noopener">Apple Maps</a>
+- <a href="https://achteintel.org/museum/ausstellung-01/google-maps" target="_blank" rel="noopener">Google Maps</a>
+
 
 ---
 
 <h2 id="medienmitteilungen">Medienmitteilungen</h2>
+
+## Erste Ausstellung des achteintel—LitfassMuseum – 14.07.2021
+
+**Die erste Ausstellung des achteintel–LitfassMuseum findet vom 23. Juli bis zum 2. August in Karlsruhe statt.** 
+
+Auf **12 Litfaßsäulen** werden Werke von **Carolin Segebrecht**, **DEAR DEER ART CONSPIRACY**, **Chiharu Koda**, **DOME**, **Jana Gruszeninks** und **Michael Gibis** ausgestellt. Die Künstler*innen bespielen je zwei identische Säulen.
+
+Aus dem Verbund der Litfaßsäulen entsteht ein **Museum im öffentlichen Raum**. Jede dieser Säulen ist ein nach außen gewölbter Ausstellungsraum. Kunst wird im Stadtbild sichtbar. Sie findet ihren Weg in das Leben der Menschen, kann auf den alltäglichen Wegen entdeckt, bewusst einzeln besucht oder als Tour erkundet werden. 
+
+{% responsiveImage './src/assets/img/media-info-2021-07-14.jpg', 'Ein Anmutung der Infosäule auf dem Kronenplatz', '(min-width: 48em) 50vw, 100vw' %}
+
+Auf einer **Informationssäule am Kronenplatz** und der Webseite werden alle Säulen und deren Standorte gelistet. Zum Auffinden der bespielten Säulen stehen darüber hinaus Karten in gedruckter Form und zur Verwendung mit dem Smartphone zur Verfügung.
+
+Die Litfaßsäule ist der Dino der Werbewirtschaft. Um 1855 wirkten die ersten Litfaßsäulen als Kreativmotor und Beginn der Kreativwirtschaft. Heute, 166 Jahre später, nutzt die Initiative achteintel um Michael Gibis und Daniel Ehniss diese Säulen, um die Kreativität im Stadtbild wieder sichtbar zu machen, Aufmerksamkeit zu erregen, Interesse zu wecken und Mut zu machen.
+
+Das achteintel-Format (8 mal Din A1), ist das schmale Hochformat der Litfaßsäule. Drei dieser Plakatformate füllen eine Säule.
+
+Die erste Ausstellung des achteintel—LitfassMuseum wurde durch den Beitrag von **142 Unterstützer\*innen** als **Crowdfunding Projekt** finanziert.
+
+#### Downloads
+
+- <a download href="https://downloads.achteintel.org/achteintel-LitfassMuseum-Medienmitteilung-2021-07-14.pdf">Medienmitteilung herunterladen</a>
+- <a download href="https://downloads.achteintel.org/8-1-anmutung-infosaeule-kronenplatz.jpg">Anmutung Infosäule herunterladen</a>
+- <a download href="https://downloads.achteintel.org/achteintel-Ausstellungsflyer.pdf">Ausstellungsflyer herunterladen</a>
+
+
+- - -
 
 ### Crowdfunding Kampagne erfolgreich abgeschlossen – 20.05.2021
 

@@ -21,7 +21,6 @@ h1,
 h2,
 h3,
 h4 {
-  /* font-family: var(--bold-text); */
   font-weight: normal;
 }
 
@@ -63,6 +62,11 @@ h2 + h3 {
 h2 + p,
 h3 + p {
   margin-top: 0;
+}
+
+h4 {
+  margin-bottom: 16px;
+  margin-bottom: var(--spacing-m);
 }
 
 .page-content p,
