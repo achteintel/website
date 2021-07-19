@@ -20,7 +20,8 @@ html {
 h1,
 h2,
 h3,
-h4 {
+h4,
+h5 {
   font-weight: normal;
 }
 
@@ -35,6 +36,11 @@ h3,
 h4 {
   font-size: 36px;
   font-size: var(--secondary-headline);
+}
+
+h5 {
+  font-size: 24px;
+  font-size: var(--highlighted-text);
 }
 
 h4.inline {
@@ -235,4 +241,14 @@ ul.meta li::after {
 ul.meta li:last-of-type::after {
   display: none;
   margin: 0;
+}
+
+.pill {
+  background-color: rgb(5, 255, 165);
+  background-color: var(--primary);
+  border-radius: 1em;
+  display: inline-block;
+  height: 1.5em;
+  text-align: center;
+  width: 1.5em;
 }

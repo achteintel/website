@@ -4,47 +4,89 @@
     "bio": "lebt mit ihrem Hund Ringo in Karlsruhe und zeichnet ihre von Alltagszenen inspirierten Comics ausschließlich analog. Bleistift und Tuschestift, Fineliner und Aquarell.",
     "url": "",
     "avatar": "./src/assets/img/carolin-segebrecht.jpeg",
-    "column-01": "02",
-    "column-02": "09"
+    "artwork": "Skategurls 3000 And the Magic Miniramp",
+    "column_01": {
+      "number": "2",
+      "location": "49.007314,8.406784"
+    },
+    "column_02": {
+      "number": "9",
+      "location": "49.014527,8.392864"
+    }
   },
   {
     "name": "DEAR DEER ART CONSPIRACY",
     "bio": "verteilt seit 15 Jahren weiße Rehe im urbanen und ländlichen Raum. Papier und Kleister, Dose, Pinsel, Kreide und Sticker. Auch großformatige Bilder und Leinwände für den Innenraum erscheinen in unregelmäßigen Abständen.",
     "url": "https://www.instagram.com/deardeer.ac/",
     "avatar": "./src/posts/2021/05/news-06/opener-06.jpg",
-    "column-01": "03",
-    "column-02": "12"
+    "artwork": "Stranger in the Alps, Sologne, The Power of Failing",
+    "column_01": {
+      "number": "3",
+      "location": "48.996831,8.404115"
+    },
+    "column_02": {
+      "number": "12",
+      "location": "49.012035,8.425420"
+    }
   },
   {
     "name": "Chiharu Koda",
     "bio": "lebt und arbeitet in Mimasaka, Japan und Karlsruhe. In ihren Arbeiten setzt sie sich thematisch mit der Beziehung zwischen Zeit und Erinnerung auseinander. Eines ihrer Interessengebiete ist die Betrachtung der unterschiedlichen und auch ähnlichen Natur in ihrer japanischen Heimat und der Regionen Schwarzwald und Pfalz.",
     "url": "https://chiharukoda.com/",
     "avatar": "./src/posts/2021/05/news-07/chiharu-koda.jpg",
-    "column-01": "01",
-    "column-02": "05"
+    "artwork": "Käfer – Jeden Tag sehe ich dutzende Hirsch- und Nashornkäfer in den Gefäßen auf dem Hof in einem Kindergarten. Sie schlafen seit ungefähr einem Monat in einer Reihe.",
+    "column_01": {
+      "number": "1",
+      "location": "49.001995,8.478439"
+    },
+    "column_02": {
+      "number": "5",
+      "location": "48.999716,8.397531"
+    }
   },
   {
     "name": "DOME",
     "bio": "entdeckte 1994, fasziniert von Kunst im öffentlichen Raum, die Sprühdose und begann Wände zu bemalen. Zentrales Thema seiner Arbeiten ist der Mensch. Seine Werke werden bereits seit 20 Jahren europaweit ausgestellt. Leinwand oder Fassade. Seine Figuren erweckt er mit Schablonen, Sprühdosen, Bleistift, Tusche, Acryl, Blattgold und Pinsel zum Leben.",
     "url": "https://www.domeone.de/",
     "avatar": "./src/posts/2021/05/news-07/dome.jpg",
-    "column-01": "08",
-    "column-02": "04"
+    "artwork": "Quest for Truth",
+    "column_01": {
+      "number": "4",
+      "location": "48.994660,8.396690"
+    },
+    "column_02": {
+      "number": "8",
+      "location": "49.012399,8.387518"
+    }
   },
   {
     "name": "Jana Gruszeninks",
     "bio": "setzt für ihre grafischen Arbeiten gerne analoge Elemente ein. In ihrer Acrylmalerei spiegelt sich das Grafische durch die Komposition wieder und versucht stets die Balance zwischen Farbe und Form zu finden. Sie liebt es aus dem Impuls heraus zu malen.",
     "url": "https://www.gruszeninks.com/",
     "avatar": "./src/posts/2021/05/news-08/jana-gruszeninks.jpg",
-    "column-01": "07",
-    "column-02": "10"
+    "artwork": "1Komma51 Collagen, Acryl auf Leinwand, Protest Grapics / Thousands of people are dying on their way to Europe",
+    "column_01": {
+      "number": "7",
+      "location": "49.005298,8.386255"
+    },
+    "column_02": {
+      "number": "10",
+      "location": "49.011076,8.408507"
+    }
   },
   {
     "name": "Michael Gibis",
     "bio": "beschäftigt sich mit den Themen Fotografie und Illustration. Analog und Digital. Inspiration findet er im Spannungsfeld zwischen Ruhe und Bewegung. Das Streben nach Authentizität, handwerklicher Qualität und die Freude am Machen bilden das Fundament seiner Arbeiten.",
     "url": "https://michaelgibis.com/",
     "avatar": "./src/posts/2021/05/news-09/michael-gibis.jpg",
-    "column-01": "06",
-    "column-02": "11"
+    "artwork": "Moderation, Farewell, Ticosol Brasil",
+    "column_01": {
+      "number": "6",
+      "location": "48.998330,8.394071"
+    },
+    "column_02": {
+      "number": "11",
+      "location": "49.013570,8.418476"
+    }
   }
 ]

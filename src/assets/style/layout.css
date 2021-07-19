@@ -117,7 +117,8 @@
   max-width: 100%;
 }
 
-.grid-container-element > p {
+.grid-container-element p,
+.grid-container-element ul {
   max-width: 100%;
 }
 
@@ -127,6 +128,22 @@
 
 .grid-container-element > *:last-child {
   margin-bottom: 0;
+}
+
+@media (min-width: 48em) {
+  .evenly-spaced {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .evenly-spaced > picture,
+  .evenly-spaced > .location {
+    flex: none;
+  }
+
+  .evenly-spaced > .art {
+    flex: 1 0 auto;
+  }
 }
 
 /* SPACING HELPERS */
