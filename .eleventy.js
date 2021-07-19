@@ -83,7 +83,8 @@ module.exports = function(eleventyConfig) {
       widths: [1200]
     });
     let data = metadata.jpeg[metadata.jpeg.length - 1];
-    return `<meta property="og:image" content="${data.url}" /><meta property="og:image:type" content="image/jpeg" /><meta property="og:image:width" content="${data.width}" /><meta property="og:image:height" content="${data.height}" /><meta property="og:image:alt" content="${alt}" />`;
+    let ogImagePath = "https://achteintel.org" + data.url;
+    return `<meta property="og:image" content="${ogImagePath}" /><meta property="og:image:type" content="image/jpeg" /><meta property="og:image:width" content="${data.width}" /><meta property="og:image:height" content="${data.height}" /><meta property="og:image:alt" content="${alt}" />`;
   });
 
   // Shortcodes
