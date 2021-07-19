@@ -1,7 +1,7 @@
 {% set postslist = collections.post %}
 
-{% for post in postslist | head(-1) %}
 <h2>Frisch im Blog</h2>
+{% for post in postslist | head(-1) %}
 <article>
   <h3 class="topless bottomless">{{ post.data.title }}</h3>
   {% if post.data.excerpt %}<p>{{ post.data.excerpt | safe }}</p>{% endif %}
