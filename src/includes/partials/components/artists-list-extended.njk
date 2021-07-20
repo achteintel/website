@@ -2,13 +2,13 @@
 {% for item in artists_01 %}
   <li class="grid-container-element evenly-spaced">
     {% if item.avatar %}{% responsiveImage item.avatar, item.name, '(min-width: 48em) 50vw, 100vw' %}{% endif %}
-    <div class="art">
+    <div class="evenly-spaced-content">
       <h4 class="inline">{% if item.url %}<a href="{{ item.url | url }}" target="_blank">{{ item.name | safe }}</a>{% else %}<strong>{{ item.name | safe }}</strong>{% endif %}</h4>
       <p>{{ item.bio | safe }}</p>
       <h5 class="bottomless">Werk</h5>
       <p class="small topless">{{ item.artwork | safe }}</p>
     </div>
-    <div class="location">
+    <div class="evenly-spaced-footer">
       <h5 class="bottomless">Litfaßsäulen</h5>
       <ul class="nols">
         <li class="small"><span class="pill">{{ item.column_01.number | safe }}</span> — Standort bei <a href="https://maps.apple.com/?address={{ item.column_01.location | safe }}" rel="noopener" target="_blank">Apple</a> oder <a href="https://maps.google.com/?q={{ item.column_01.location | safe }}" rel="noopener" target="_blank">Google</a>.</li>

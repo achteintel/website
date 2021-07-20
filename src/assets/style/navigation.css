@@ -1,11 +1,18 @@
 .main-nav {
-  font-size: 22px;
-  font-size: var(--body-text);
+  font-size: 16px;
+  font-size: var(--label-text);
   margin-left: var(--spacing-s);
 }
 
+@media (min-width: 26em) {
+  .main-nav {
+    font-size: 22px;
+    font-size: var(--body-text);
+  }
+}
+
 .main-nav ul li {
-  margin-right: var(--spacing-m);
+  margin-right: var(--spacing-s);
 }
 
 @media (min-width: 48em) {

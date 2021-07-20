@@ -107,6 +107,12 @@ Auf die Speicherung der IP-Adresse durch Sendinblue sei hiermit ausdrücklich hi
 
 Der Newsletter kann jederzeit abbestellt werden, entsprechende Informationen sind in jeder Ausgabe des Newsletters zu finden. Wenn sich Empfänger*innen vom Newsletter abmelden, wird auch die damit zusammenhängende E-Mail-Adresse gelöscht.
 
+### Datenweitergabe im Shop
+
+Zur Vertragserfüllung gemäß Art. 6 Abs. 1 S. 1 lit. b DSGVO geben wir Ihre Daten an das mit der Lieferung beauftragte Versandunternehmen weiter, soweit dies zur Lieferung bestellter Waren erforderlich ist. 
+
+Zur Abwicklung der Bestellungen im achteitel—Museumshop verwenden wir den Zahlungsdienstleister PayPal, um Ihre Bestellung abzuwickeln geben Sie dort alle notwendigen Daten an. Der Zahlungsdienstleister erhebt diese Daten selbst, soweit Sie dort ein Konto anlegen. Es gilt insoweit die Datenschutzerklärung des jeweiligen Zahlungsdienstleisters.
+
 ### Änderung des Datenschutzhinweises
 
 Wir behalten uns vor, diesen Datenschutzhinweis anzupassen, damit er stets den aktuellen rechtlichen Anforderungen entspricht oder um Änderungen unserer Leistungen im Datenschutzhinweis umzusetzen, z.B. bei der Einführung neuer Services. Für Deinen erneuten Besuch gilt dann der neue Datenschutzhinweis.

@@ -132,11 +132,13 @@ a:focus {
   color: var(--secondary);
 }
 
-button {
+button,
+[type="submit"] {
   appearance: none;
   -moz-appearance: none;
   -webkit-appearance: none;
   border: 0;
+  cursor: pointer;
 }
 
 a.button,
@@ -229,7 +231,7 @@ a.inline-symbol svg {
 }
 
 ul.meta li::after,
-.page-footer ul li:first-of-type::after {
+.page-footer ul li::before {
   content: '/';
   display: inline;
 }
@@ -238,6 +240,8 @@ ul.meta li::after {
   margin: 0 0.35em;
 }
 
+.page-footer ul li:first-of-type::before,
+.page-footer ul li:last-of-type::before,
 ul.meta li:last-of-type::after {
   display: none;
   margin: 0;

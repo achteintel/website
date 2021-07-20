@@ -1,0 +1,29 @@
+<ul class="nols grid-container top-spacing--gap">
+{% for product in products_01 %}
+  <li class="grid-container-element evenly-spaced">
+    {% if product.picture %}{% responsiveImage product.picture, product.name, '(min-width: 48em) 50vw, 100vw' %}{% endif %}
+    <div class="evenly-spaced-content">
+      <h3 class="topless bottomless">{{ product.name | safe }}</h3>
+      <p class="price bottomless">{{ product.localized_price | safe }} Euro</p>
+      <p class="small topless">inkl. 19 % MwSt, zzgl. Versand</p>
+      <p class="info small">{{ product.info | safe }}</p>
+    </div>
+    <div class="evenly-spaced-footer">
+      <form target="_blank" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+        <input type="hidden" name="business" value="daniel@achteintel.org">
+        <input type="hidden" name="cmd" value="_cart">
+        <input type="hidden" name="add" value="1">
+        <input type="hidden" name="item_name" value="{{ product.name | safe }}">
+        <input type="hidden" name="item_number" value="{{ product.paypal_item_number | safe }}">
+        <input type="hidden" name="amount" value="{{ product.price | safe }}">
+        <input type="hidden" name="shipping" value="{{ product.shipping | safe }}">
+        <input type="hidden" name="shipping2" value="{{ product.shipping2 | safe }}">
+        <input type="hidden" name="tax_rate" value="19.0">
+        <input type="hidden" name="currency_code" value="EUR">
+        <input type="hidden" name="shopping_url" value="https://achteintel.org/shop">
+        <input class="button" type="submit" name="submit" value="In den Warenkorb">
+      </form>
+    </div>
+  </li>
+{% endfor %}
+</ul>

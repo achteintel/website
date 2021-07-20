@@ -21,6 +21,7 @@
   .page-content hr,
   .crew-member-content,
   .form__label-row,
+  .page-content > form,
   .page-footer > * {
     margin-right: auto;
     margin-left: auto;
@@ -117,6 +118,7 @@
   max-width: 100%;
 }
 
+.grid-container-element h3,
 .grid-container-element p,
 .grid-container-element ul {
   max-width: 100%;
@@ -137,11 +139,11 @@
   }
 
   .evenly-spaced > picture,
-  .evenly-spaced > .location {
+  .evenly-spaced > .evenly-spaced-footer {
     flex: none;
   }
 
-  .evenly-spaced > .art {
+  .evenly-spaced > .evenly-spaced-content {
     flex: 1 0 auto;
   }
 }
