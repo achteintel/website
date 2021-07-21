@@ -22,7 +22,7 @@ Das Team des **NUN Kulturraum e.V.** lädt am **Sonntag 25. Juli** zu einer Kult
 
 Um 15 Uhr beginnt die Tour bei der Infosäule auf dem Kronenplatz. Alle Interessierten sind eingeladen mit Rad, Roller oder Skateboard das LitfassMuseum gemeinsam zu erkunden. 
 
-### Critical Mass am 20.07.2021
+### Critical Mass am 30.07.2021
 
 Am **Freitag 30. Juli** findet die **Critical Mass** in Karlsruhe statt. Treffpunkt ist um **18 Uhr** auf dem **Kronenplatz**.
 
