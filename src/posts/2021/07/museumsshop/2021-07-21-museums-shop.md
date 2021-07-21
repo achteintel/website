@@ -2,8 +2,8 @@
 layout: post
 title: Museumsshop
 permalink: ./blog/museumsshop/index.html
-metaDescription: Heute in einer Woche startet die erste Ausstellung des achteintel—LitfassMuseum. 
-excerpt: Heute in einer Woche startet die erste Ausstellung des achteintel—LitfassMuseum. Um darauf aufmerksam zu machen haben wir ein Plakat gedruckt das wir Euch heute vorstellen.
+metaDescription: Ab heute ist der achteintel—Museumsshop im INTRO Café und auf der Webseite geöffnet. 
+excerpt: Ab heute ist der achteintel—Museumsshop im INTRO Café und auf der Webseite geöffnet. Plant Euch bei Eurer Tour durchs Museum einen Besuch im INTRO ein, genießt Kaffee und Kuchen und nehmt eine Erinnerung mit.
 author: Daniel Ehniss
 date: 2021-07-21
 tags:
