@@ -41,6 +41,34 @@ Für Eure Erkundungstouren durchs LitfassMuseum haben wir Karten bei Apple und G
 
 - - -
 
+### Gemeinsam ins Museum
+
+Das achteintel—LitfassMuseum macht Kunst im öffentlichen Raum zugänglich. **Es ist für alle zu jeder Zeit frei zugänglich**. Auf diese Weise begegnet Kunst sowohl auf alltäglichen Wegen durch die Stadt und kann bei individuellen Touren erkundet werden.
+
+Gleichzeitig bietet es jedoch auch den Rahmen für gemeinsame Touren. Wir freuen uns zwei besondere Veranstaltungen anbieten zu können. Am **25. Juli** findet eine **Kultour mit dem NUN** durchs achteintel statt, und am **30. Juli** führt die Route der **Critical Mass** durchs LitfassMuseum.
+
+Das Team des NUN Kulturraum e.V. lädt am **Sonntag 25. Juli** zu einer Kultour ins achteintel—LitfassMuseum ein. Treffpunkt ist um **14 Uhr** im **INTRO Café am Kronenplatz**. Das INTRO öffnet exklusiv für einen genussvollen Start bei Kaffee und Kuchen.
+
+Am **Freitag 30. Juli** findet die **Critical Mass** in Karlsruhe statt. Treffpunkt ist um **18 Uhr** auf dem **Kronenplatz**.
+
+Weitere Infos zu den beiden Veranstaltungen findest Du in diesem [Blogpost](/blog/gemeinsam-ins-museum/).
+
+- - -
+
+### Museumsshop
+
+Manche von Euch möchten sich nach einer schönen Tour durchs Museum ein Andenken mit nach Hause nehmen, das verstehen wir sehr gut, und haben einen kleinen **Museumsshop** für Euch organisiert. Diesen gibt es in zwei Ausführungen: zum einen befindet er sich im **INTRO Café am Kronenplatz** und zum anderen findet Ihr ihn auch auf der [Webseite](/shop).
+ 
+Ab jetzt könnt Ihr Euch dort die **Baumwolltasche**, ein **Stickerpack** und das **Ausstellungsplakat** kaufen. Damit aber nicht genug, als besonderes Highlight bieten wir ein **Kunstkartenset** an.
+
+{% responsiveImage './src/assets/img/product-artcards-01.jpeg', 'Ansicht des eingepackten Kunstkartensets', '(min-width: 48em) 50vw, 100vw' %}
+ 
+In diesem hochwertigen Set befindet sich jeweils eines der Ausstellungsmotive aller Künstler\*innen. Gedruckt wurden die Karten von Butz & Bürker auf dem Papier Jupp Pummelisch 300g/qm von Römerturm.
+ 
+Wenn Ihr die erste Ausstellung des achteintel—LitfassMuseum besucht, plant Euch unbedingt einen Besuch im INTRO Café ein, stöbert im Museumsshop und genießt Kaffee und Kuchen.
+
+- - -
+
 ### Warum ein LitfassMuseum?
 
 Die Litfaßsäule ist der Dino der Werbewirtschaft. Um 1855 wirkten die ersten Litfaßsäulen als Kreativmotor und Beginn der Kreativwirtschaft. Heute, 166 Jahre später, nutzt die Initiative achteintel um Michael Gibis und Daniel Ehniss diese Säulen, um die Kreativität im Stadtbild wieder sichtbar zu machen, Aufmerksamkeit zu erregen, Interesse zu wecken und Mut zu machen. Kunst findet ihren Weg in unsere Stadt und erhellt den Alltag.
@@ -48,4 +76,3 @@ Die Litfaßsäule ist der Dino der Werbewirtschaft. Um 1855 wirkten die ersten L
 ### Warum achteintel?
 
 Das achteintel-Format (8 mal Din A1), ist das schmale Hochformat der Litfaßsäule. Drei dieser Plakatformate füllen eine ganze Säule.
-
