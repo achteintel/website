@@ -9,6 +9,18 @@ heroText: 'Das LitfassMuseum für Karlsruhe'
 
 ---
 
+## Hinweis:
+
+<p>Beim Plakatieren hat es Probleme gegeben, <strong>der Start der Ausstellung verzögert sich leider</strong>.</p>
+<p class="cta-link-container"><a class="cta-link" href="{{ '/blog/wo-bleibt-die-kunst/' | url }}">
+  <span class="cta-link-symbol">
+    {% symbol "arrow-right", "65.9", "30" %}
+  </span>
+  <span class="label">mehr erfahren</span>
+</a></p>
+
+- - -
+
 ## Die erste Ausstellung des achteintel—LitfassMuseum findet vom 23. Juli bis zum 2. August in Karlsruhe statt.
 
 Auf 12 Litfaßsäulen werden Werke von **Carolin Segebrecht**, **DEAR DEER ART CONSPIRACY**, **Chiharu Koda**, **DOME**, **Jana Gruszeninks** und **Michael Gibis** ausgestellt. Die Künstler*innen bespielen je zwei identische Säulen. Auf einer zusätzlichen Informationssäule am Kronenplatz und hier werden alle Säulen und deren Standorte gelistet.
