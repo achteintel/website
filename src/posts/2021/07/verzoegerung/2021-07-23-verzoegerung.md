@@ -19,3 +19,21 @@ Ihr fragt euch vielleicht, genau wie wir, warum in der Stadt immer noch Werbung 
 In Durlach wurde, wie berichtet, ein Motiv unserer ersten Ausstellung plakatiert. Auf den anderen 12 Säulen hängt leider noch keine Kunst. Warum, können wir euch leider noch nicht sagen. Fakt ist, wir haben die Säulen ab dem heutigen Tag gebucht. Hängen tut noch nichts. Wir hatten bereits Kontakt mit dem Betreiber der Säulen, von dort aber noch keine zufriedenstellende Antwort erhalten.
 
 Wir bitten Euch um Geduld und setzen uns im Hintergrund dafür ein, dass das achteintel-LitfassMuseum bald möglichst beginnen kann.
+
+- - -
+
+### Update 24.07.2021 / 13:15 Uhr
+
+Wir waren jetzt nochmals an allen Standorten und haben festgestellt, dass die folgenden Säulen plakatiert sind:
+
+- Infosäule 
+- 1\. Chiharu Koda
+- 2\. Carolin Segebrecht
+- 7\. Jana Gruszeninks
+- 8\. DOME
+- 10\. Jana Gruszeninks
+- 11\. Michael Gibis
+- 12\. DEAR DEER ART CONSPIRACY
+
+Vielen Dank für Eure positiven Rückmeldungen und die Geduld.
+Viel Spaß beim Erkunden.
