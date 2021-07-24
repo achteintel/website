@@ -12,7 +12,7 @@ eleventyNavigation:
 
 ## Hinweis:
 
-<p>Beim Plakatieren hat es Probleme gegeben, <strong>der Start der Ausstellung verzögert sich leider</strong>.</p>
+<p>Beim Plakatieren hat es Probleme gegeben, <strong>langsam erfrischen aber immer mehr Kunstwerke das Stadtbild</strong>.</p>
 <p class="cta-link-container"><a class="cta-link" href="{{ '/blog/wo-bleibt-die-kunst/' | url }}">
   <span class="cta-link-symbol">
     {% symbol "arrow-right", "65.9", "30" %}
