@@ -40,6 +40,30 @@ metaDescription: Medienspiegel und Medienmitteilungen des achteintel—LitfassMu
 
 <h2 id="medienmitteilungen">Medienmitteilungen</h2>
 
+### Kunst auf Litfaßsäulen – 26.07.2021
+
+Die erste Ausstellung des **achteintel—LitfassMuseum** hat begonnen. **Seit dem Wochenende** erfrischen die ersten Kunstwerke das Stadtbild von Karlsruhe. Die Werke von Carolin Segebrecht, DEAR DEER ART CONSPIRACY, Chiharu Koda, DOME, Jana Gruszeninks und Michael Gibis sind noch **bis zum 2. August** zu sehen.
+
+Da es sich beim achteintel—LitfassMuseum um ein **Kunstmuseum im öffentlichen Raum** handelt, ist die Ausstellung **zu jeder Zeit und für alle frei zugänglich**. Jede Litfaßsäule ist ein nach außen gewölbter Ausstellungsraum. Die Kunstwerke können einzeln betrachtet oder auf einer Tour entlang der Litfaßsäulen als gesamte Ausstellung erkundet werden.
+
+In **unmittelbarer Nähe des Stadtgartens** befinden sich 4 Litfaßsäulen die zu einem Kunstspaziergang im Zusammenhang mit einem **Zoobesuch** einladen, oder **Reisenden** die Möglichkeit bieten die **kulturelle Vielfalt der Stadt** kennen zu lernen. Wer sich auf diese ersten vier Ausstellungsräume eingelassen hat, scannt mit dem Smartphone den **QR-Code auf der Litfaßsäule** und gelangt auf die Ausstellungsseite, wo weitere Informationen und **interaktive Karten mit allen Standorten** zu finden sind.  
+
+Immer mehr **Passanten** bleiben stehen, **betrachten die Kunst auf Litfaßsäulen**, auf denen bis vor Kurzem noch Werbung zu sehen war. Sie beginnen sich über die Motive zu unterhalten. Andere schließen sich in Gruppen zusammen und fahren gemeinsam mit ihren Fahrrädern durchs Museum.
+
+{% responsiveImage './src/posts/2021/07/kultour/10-gruszeninks.jpg', 'Jana Gruszeninks erläutert ihre Arbeitsweise an ihrer Säule im LitfassMuseum', '(min-width: 48em) 50vw, 100vw' %}
+
+Eine solche Gruppe fuhr am letzten Sonntag, auf Einladung des NUN Kulturraum e.V. und den Initiatoren der Einstellung, durch das achteintel und **begegnete** auf dieser Kultour **einigen der Künstler*innen**, die **Einblicke in ihre Arbeit** gaben, **über ihre Werke sprachen** und sich gerne **mit den Kunstinteressierten unterhielten**.
+
+Am kommenden Freitag wird die Route der **Critical Mass durchs LitfassMuseum** führen. Neben dem **Engagement für die Verkehrswende in Karlsruhe**, wird erneut die **Verbindung zur Kunst** geknüpft. Die Critical Mass beginnt am **Freitag 30. Juli um 18 Uhr auf dem Kronenplatz**.
+
+Ein Besuch im achteintel—LitfassMuseum lässt sich wunderbar durch **Kaffee und Kuchen im INTRO Café** ergänzen. Im Café können neben den erwähnten Leckereien auch **Andenken an den Museumsbesuch** erworben werden. Auf dem **Kronenplatz** befindet sich auch die **Informationssäule des Museums**, auf der alle Standorte gelistet sind und weitere Information zu den Künstler*innen stehen.
+
+- <a download href="https://downloads.achteintel.org/achteintel-LitfassMuseum-Medienmitteilung-2021-07-26.pdf">Medienmitteilung herunterladen</a>
+- <a download href="https://downloads.achteintel.org/achteintel-Ausstellungsflyer.pdf">Ausstellungsflyer herunterladen</a>
+- <a download href="https://downloads.achteintel.org/achteintel-LitfassMuseum-Medienmitteilung-Bilder-2021-07-26.zip">Bilder zur Medienmitteilung vom 26.07.2021 herunterladen</a>
+
+- - -
+
 ## Erste Ausstellung des achteintel—LitfassMuseum – 14.07.2021
 
 **Die erste Ausstellung des achteintel–LitfassMuseum findet vom 23. Juli bis zum 2. August in Karlsruhe statt.** 
