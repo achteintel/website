@@ -37,3 +37,7 @@ Wir waren jetzt nochmals an allen Standorten und haben festgestellt, dass die fo
 
 Vielen Dank für Eure positiven Rückmeldungen und die Geduld.
 Viel Spaß beim Erkunden.
+
+### Update 26.07.2021 / 14:50 Uhr
+
+Ab jetzt sind alle Säulen plakatiert. Viel Spaß beim Entdecken.
