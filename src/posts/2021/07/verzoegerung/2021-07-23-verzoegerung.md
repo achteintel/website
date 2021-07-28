@@ -40,4 +40,4 @@ Viel Spaß beim Erkunden.
 
 ### Update 26.07.2021 / 14:50 Uhr
 
-Ab jetzt sind alle Säulen plakatiert. Viel Spaß beim Entdecken.
+Ab jetzt sind fast alle Säulen plakatiert. Säule 9 kann auf Grund ihrer Beschaffenheit leider nicht geklebt werden. Viel Spaß beim Entdecken.
