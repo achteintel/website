@@ -12,7 +12,7 @@ eleventyNavigation:
 
 ## Die erste Ausstellung des achteintel—LitfassMuseum findet vom 23. Juli bis zum 2. August in Karlsruhe statt.
 
-Auf 12 Litfaßsäulen werden Werke von **Carolin Segebrecht**, **DEAR DEER ART CONSPIRACY**, **Chiharu Koda**, **DOME**, **Jana Gruszeninks** und **Michael Gibis** ausgestellt. Die Künstler*innen bespielen je zwei identische Säulen. Auf einer zusätzlichen Informationssäule am Kronenplatz und der Webseite werden alle Säulen und deren Standorte gelistet.
+Auf 12 Litfaßsäulen werden Werke von **Carolin Segebrecht**, **DEAR DEER ART CONSPIRACY**, **Chiharu Koda**, **DOME**, **Jana Gruszeninks** und **Michael Gibis** ausgestellt. Die Künstler*innen bespielen je zwei identische Säulen. Auf einer zusätzlichen Informationssäule am Kronenplatz und hier werden alle Säulen und deren Standorte gelistet.
 
 Aus dem Verbund der Litfaßsäulen entsteht ein Museum im öffentlichen Raum. Jede dieser Säulen ist ein nach außen gewölbter Ausstellungsraum. Die Kunstwerke können einzeln betrachtet oder auf einer Tour entlang der Litfaßsäulen als gesamte Ausstellung erkundet werden.
 
@@ -45,13 +45,19 @@ Für Eure Erkundungstouren durchs LitfassMuseum haben wir Karten bei Apple und G
 
 Das achteintel—LitfassMuseum macht Kunst im öffentlichen Raum zugänglich. **Es ist für alle zu jeder Zeit frei zugänglich**. Auf diese Weise begegnet Kunst sowohl auf alltäglichen Wegen durch die Stadt und kann bei individuellen Touren erkundet werden.
 
-Gleichzeitig bietet es jedoch auch den Rahmen für gemeinsame Touren. Wir freuen uns zwei besondere Veranstaltungen anbieten zu können. Am **25. Juli** findet eine **Kultour mit dem NUN** durchs achteintel statt, und am **30. Juli** führt die Route der **Critical Mass** durchs LitfassMuseum.
+Gleichzeitig bietet es jedoch auch den Rahmen für gemeinsame Touren. Wir freuen uns drei besondere Veranstaltungen anbieten zu können: 
 
-Das Team des NUN Kulturraum e.V. lädt am **Sonntag 25. Juli** zu einer Kultour ins achteintel—LitfassMuseum ein. Treffpunkt ist um **14 Uhr** im **INTRO Café am Kronenplatz**. Das INTRO öffnet exklusiv für einen genussvollen Start bei Kaffee und Kuchen.
+#### Kultour mit dem NUN – 25.07.2021
 
-Am **Freitag 30. Juli** findet die **Critical Mass** in Karlsruhe statt. Treffpunkt ist um **18 Uhr** auf dem **Kronenplatz**.
+Das Team des NUN Kulturraum e.V. lädt am **Sonntag 25. Juli** zu einer Kultour ins achteintel—LitfassMuseum ein. Treffpunkt ist um **14 Uhr** im **INTRO Café am Kronenplatz**. Das INTRO öffnet exklusiv für einen genussvollen Start bei Kaffee und Kuchen. Bitte bringt Euer Fahrrad mit.
 
-Weitere Infos zu den beiden Veranstaltungen findest Du in diesem [Blogpost](/blog/gemeinsam-ins-museum/).
+#### Critical Mass – 30.07.2021
+
+Am **Freitag 30. Juli** führt die Route der **Critical Mass** in Karlsruhe durchs achteintel—LitfassMuseum statt. Treffpunkt ist um **18 Uhr** auf dem **Kronenplatz**. Bitte bringt Euer Fahrrad und eine medizinische Maske mit.
+
+#### Crowd the Museum – 31.07.2021
+
+Am **Samstag 31. Juli** findet eine zweite geführte Fahrradtour durchs LitfassMuseum statt. Treffpunkt ist um **18 Uhr** im **INTRO Café am Kronenplatz**. Bitte bringt Euer Fahrrad, eine medizinische Maske und ein negatives Testergebnis mit.
 
 - - -
 
