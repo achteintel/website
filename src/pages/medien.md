@@ -40,6 +40,25 @@ metaDescription: Medienspiegel und Medienmitteilungen des achteintel—LitfassMu
 
 <h2 id="medienmitteilungen">Medienmitteilungen</h2>
 
+### Verlängert bis 12. August – 30.07.2021
+
+Zum Start des letzten Wochenendes der ersten Ausstellung, freuen wir uns mitteilen zu können, dass einige Litfaßsäulen verlängert werden. Im Ausgleich zum verspäteten Start der Ausstellung, konnten wir uns mit den Betreibern der Litfaßsäulen darauf einigen, die Werke aller Künstler\*innen bis 12. August hängen zu lassen.
+
+**Die Infosäule und alle Kunstwerke bleiben bis Donnerstag 12. August zugänglich**. Konkret werden folgende Säulen verlängert:
+
+- Infosäule auf dem Kronenplatz
+- Säule 1 – Chiharu Koda
+- Säule 2 – Carolin Segebrecht
+- Säule 4 – DOME
+- Säule 6 – Michael Gibis
+- Säule 7 – Jana Gruszeninks
+- Säule 12 – Dear Deer Art Conspiracy
+
+
+{% responsiveImage './src/posts/2021/07/verlaengerung/yeah.jpg', 'Detailansicht des Comics Skategurls 3000 von Carolin Segebrecht in der sich dir Protagonisten freuen', '(min-width: 48em) 50vw, 100vw' %}
+
+Die Verlängerung bietet allen, die es bisher nicht in die Ausstellung des achteintel—LitfassMuseum geschafft haben, die Möglichkeit Kunst im öffentlichen Raum zu genießen.
+
 ### Kunst auf Litfaßsäulen – 26.07.2021
 
 Die erste Ausstellung des **achteintel—LitfassMuseum** hat begonnen. **Seit dem Wochenende** erfrischen die ersten Kunstwerke das Stadtbild von Karlsruhe. Die Werke von Carolin Segebrecht, DEAR DEER ART CONSPIRACY, Chiharu Koda, DOME, Jana Gruszeninks und Michael Gibis sind noch **bis zum 2. August** zu sehen.
