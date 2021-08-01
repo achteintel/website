@@ -12,6 +12,7 @@ const offlinePages = [
   '/',
   '/impressum/',
   '/datenschutz/',
+  '/museum/ausstellung-01/',
   '/offline/'
 ];
 
