@@ -2,7 +2,7 @@
 layout: base
 title: Crowdfunding
 permalink: ./fund/index.html
-metaDescription: Achteintel, das LitfassMuseum erfrischt das Stadtbild von Karlsruhe mit Kunst, Grafik, Illustration und Fotografie. Zur Umsetzung dieser Ausstellungsidee benötigen wir deine finanzielle Unterstützung.
+metaDescription: Achteintel, das LitfassMuseum erfrischt das Stadtbild von Karlsruhe mit Kunst, Grafik, Illustration.
 heroImage: './src/assets/img/hero-01.jpg'
 heroImageAlt: 'Dino und Litfaßsäule'
 heroText: 'Das LitfassMuseum für Karlsruhe'
