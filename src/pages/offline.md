@@ -12,7 +12,7 @@ heroText: 'Das LitfassMuseum für Karlsruhe'
 
 - - -
 
-{% include "partials/components/cta-museum.njk" %}
+{% include "partials/components/latest-post.njk" %}
 
 - - -
 

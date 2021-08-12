@@ -19,7 +19,7 @@ Die erste Ausstellung des achteintel—LitfassMuseum fand regulär auf 12 Litfa�
 
 - - -
 
-{% include "partials/components/cta-museum.njk" %}
+{% include "partials/components/latest-post.njk" %}
 
 - - -
 
@@ -28,11 +28,6 @@ Die Litfaßsäule ist der Dino der Werbewirtschaft. Um 1855 wirkten die ersten L
 Das achteintel-Format (8 mal Din A1), ist das schmale Hochformat der Litfaßsäule. Drei dieser Plakatformate füllen eine ganze Säule.
 
 Die erste Ausstellung des achteintel—LitfassMuseum wurde durch den Beitrag von **142 Unterstützer\*innen** als **Crowdfunding Projekt** finanziert.
-
-
-- - -
-
-{% include "partials/components/latest-post.njk" %}
 
 - - -
 
