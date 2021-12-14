@@ -9,9 +9,10 @@
       <p class="small topless">{{ item.artwork | safe }}</p>
     </div>
     <div class="evenly-spaced-footer">
-      <h5 class="bottomless">Litfaßsäule</h5>
+      <h5 class="bottomless">Litfaßsäulen</h5>
       <ul class="nols">
         <li class="small"><span class="pill">{{ item.column_01.number | safe }}</span> — Standort bei <a href="https://maps.apple.com/?address={{ item.column_01.location | safe }}" rel="noopener" target="_blank">Apple</a> oder <a href="https://maps.google.com/?q={{ item.column_01.location | safe }}" rel="noopener" target="_blank">Google</a>.</li>
+        <li class="small top-spacing--s"><span class="pill">{{ item.column_02.number | safe }}</span> — Standort bei <a href="https://maps.apple.com/?address={{ item.column_02.location | safe }}" rel="noopener" target="_blank">Apple</a> oder <a href="https://maps.google.com/?q={{ item.column_02.location | safe }}" rel="noopener" target="_blank">Google</a>.</li>
       </ul>
     </div>
   </li>

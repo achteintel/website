@@ -9,13 +9,13 @@ heroText: 'Das LitfassMuseum für Karlsruhe'
 
 ---
 
-## Die erste Ausstellung des achteintel—LitfassMuseum wurde bis zum 12. August verlängert.
+## Die erste Ausstellung des achteintel—LitfassMuseum
 
-Auf 6 Litfaßsäulen werden, in der Verlängerung, Werke von **Carolin Segebrecht**, **DEAR DEER ART CONSPIRACY**, **Chiharu Koda**, **DOME**, **Jana Gruszeninks** und **Michael Gibis** ausgestellt. Die Künstler*innen bespielen je eine Säule. Auf einer zusätzlichen Informationssäule am Kronenplatz und hier werden alle Säulen und deren Standorte gelistet.
+Die erste Ausstellung des achteintel—LitfassMuseum fand vom 23. Juli bis zum 12. August in Karlsruhe statt. Auf 12 Litfaßsäulen wurden Werke von **Carolin Segebrecht**, **DEAR DEER ART CONSPIRACY**, **Chiharu Koda**, **DOME**, **Jana Gruszeninks** und **Michael Gibis** ausgestellt. Die Künstler*innen bespielten je eine Säule. Auf einer zusätzlichen Informationssäule am Kronenplatz wurde das Ausstellungskonzept vorgestellt und die Standorte der Säulen gelistet.
 
-Aus dem Verbund der Litfaßsäulen entsteht ein Museum im öffentlichen Raum. Jede dieser Säulen ist ein nach außen gewölbter Ausstellungsraum. Die Kunstwerke können einzeln betrachtet oder auf einer Tour entlang der Litfaßsäulen als gesamte Ausstellung erkundet werden.
+Aus dem Verbund der Litfaßsäulen enstand ein Museum im öffentlichen Raum. Jede dieser Säulen war ein nach außen gewölbter Ausstellungsraum. Die Kunstwerke konnten einzeln betrachtet oder auf einer Tour entlang der Litfaßsäulen als gesamte Ausstellung erkundet werden.
 
-Die erste Ausstellung des achteintel—LitfassMuseum fand regulär auf 12 Litfaßsäulen vom 23. Juli bis zum 2. August statt. Bis zum **12. August** bleibt jeweils eine Säule pro Künstler*in im Karlsruher Stadtgebiet frei zugänglich. [Weitere Infos…](/blog/verlaengert-bis-12-august/)
+Die erste Ausstellung des achteintel—LitfassMuseum fand regulär auf 12 Litfaßsäulen vom 23. Juli bis zum 2. August statt. Bis zum **12. August** blieb jeweils eine Säule pro Künstler*in im Karlsruher Stadtgebiet frei zugänglich.
 
 - - -
 
