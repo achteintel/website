@@ -3,8 +3,8 @@ layout: base
 title: achteintel–LitfassMuseum
 permalink: ./index.html
 metaDescription: Achteintel, das LitfassMuseum erfrischt mit der ersten Ausstellung vom 23.07. bis zum 12.08.21 das Stadtbild von Karlsruhe mit Kunst, Grafik und Illustration.
-heroImage: './src/assets/img/hero-01.jpg'
-heroImageAlt: 'Dino und Litfaßsäule'
+heroImage: './src/assets/img/hero-dome.jpg'
+heroImageAlt: 'Kunstinteressierte an der Säule 8 mit dem Kunstwerk „Quest for Truth“ von DOME im achteintel—LitfassMuseum'
 heroText: 'Das LitfassMuseum für Karlsruhe'
 
 ---

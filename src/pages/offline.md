@@ -3,8 +3,8 @@ layout: base
 title: Offline
 permalink: ./offline/index.html
 metaDescription: Deine Internetverbindung scheint instabil zu sein.
-heroImage: './src/assets/img/hero-01.jpg'
-heroImageAlt: 'Dino und Litfaßsäule'
+heroImage: './src/assets/img/hero-dome.jpg'
+heroImageAlt: 'Kunstinteressierte an der Säule 8 mit dem Kunstwerk „Quest for Truth“ von DOME im achteintel—LitfassMuseum'
 heroText: 'Das LitfassMuseum für Karlsruhe'
 ---
 

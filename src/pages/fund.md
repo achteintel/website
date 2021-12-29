@@ -3,8 +3,8 @@ layout: base
 title: Crowdfunding
 permalink: ./fund/index.html
 metaDescription: Achteintel, das LitfassMuseum erfrischt das Stadtbild von Karlsruhe mit Kunst, Grafik, Illustration.
-heroImage: './src/assets/img/hero-01.jpg'
-heroImageAlt: 'Dino und Litfaßsäule'
+heroImage: './src/assets/img/hero-dome.jpg'
+heroImageAlt: 'Kunstinteressierte an der Säule 8 mit dem Kunstwerk „Quest for Truth“ von DOME im achteintel—LitfassMuseum'
 heroText: 'Das LitfassMuseum für Karlsruhe'
 ---
 
