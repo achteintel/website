@@ -12,7 +12,7 @@ eleventyNavigation:
 
 ## Die erste Ausstellung des achteintel—LitfassMuseum
 
-Die erste Ausstellung des achteintel—LitfassMuseum fand vom 23. Juli bis zum 12. August in Karlsruhe statt. Auf 12 Litfaßsäulen wurden Werke von **Carolin Segebrecht**, **DEAR DEER ART CONSPIRACY**, **Chiharu Koda**, **DOME**, **Jana Gruszeninks** und **Michael Gibis** ausgestellt. Die Künstler*innen bespielten je eine Säule. Auf einer zusätzlichen Informationssäule am Kronenplatz wurde das Ausstellungskonzept vorgestellt und die Standorte der Säulen gelistet.
+Die erste Ausstellung des achteintel—LitfassMuseum fand vom 23. Juli bis zum 12. August in Karlsruhe statt. Auf 12 Litfaßsäulen wurden Werke von **Carolin Segebrecht**, **DEAR DEER ART CONSPIRACY**, **Chiharu Koda**, **DOME**, **Jana Gruszeninks** und **Michael Gibis** ausgestellt. Die Künstler*innen bespielten je zwei Säulen. Auf einer zusätzlichen Informationssäule am Kronenplatz wurde das Ausstellungskonzept vorgestellt und die Standorte der Säulen gelistet.
 
 Aus dem Verbund der Litfaßsäulen enstand ein Museum im öffentlichen Raum. Jede dieser Säulen war ein nach außen gewölbter Ausstellungsraum. Die Kunstwerke konnten einzeln betrachtet oder auf einer Tour entlang der Litfaßsäulen als gesamte Ausstellung erkundet werden.
 
