@@ -8,7 +8,7 @@
 # Redirect default Netlify subdomain to primary domain
 [[redirects]]
   from = "https://fund.achteintel.org/"
-  to = "https://wemakeit.com/projects/achteintel-litfassmuseum/"
+  to = "https://achteintel.org/fund/"
   status = 301
   force = true
 
