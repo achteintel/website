@@ -61,7 +61,11 @@
   padding-top: var(--spacing-l);
 }
 
-@media (min-width: 25em) {
+.page-footer ul li.copyright {
+  display: block;
+}
+
+@media (min-width: 30em) {
   .page-footer ul {
     display: flex;
   }
