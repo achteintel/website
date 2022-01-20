@@ -41,12 +41,18 @@ module.exports = function(eleventyConfig) {
   });
 
   // Handle Images
-  eleventyConfig.addNunjucksAsyncShortcode("responsiveImage", async function (src, alt, sizes) {
+  eleventyConfig.addNunjucksAsyncShortcode("responsiveImage", async function (src, alt, sizes, realm) {
 
     if (sizes === undefined) {
       sizes = '(min-width: 30em) 50vw, 100vw';
     } else {
       sizes = sizes;
+    }
+
+    if (realm === 'hero') {
+      loadingKeyword = "eager";
+    } else {
+      loadingKeyword = "lazy";
     }
 
     // returns Promise
@@ -61,7 +67,7 @@ module.exports = function(eleventyConfig) {
     let imageAttributes = {
       alt,
       sizes,
-      loading: "lazy",
+      loading: loadingKeyword,
       decoding: "async",
     };
 
