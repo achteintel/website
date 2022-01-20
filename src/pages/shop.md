@@ -12,8 +12,6 @@ eleventyNavigation:
 
 Du hast die Ausstellung besucht und möchtest Dir ein Andenken mitnehmen? Genau dafür ist dieser Shop gedacht.
 
-Wir nutzen PayPal zur Abwicklung der Bestellungen. Falls Du nicht möchtest, dass Deine Daten dorthin übertragen werden, kannst Du im INTRO Café am Kronenplatz vorbeigehen.
-
 {% include "partials/components/products-list.njk" %}
 
 - - -
