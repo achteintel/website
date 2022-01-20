@@ -11,8 +11,20 @@
   }
 }
 
+.main-nav ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
 .main-nav ul li {
   margin-right: var(--spacing-s);
+  display: block;
+}
+
+@media (min-width: 25em) {
+  .main-nav ul li {
+    display: inline-block;
+  }
 }
 
 @media (min-width: 48em) {
