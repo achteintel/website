@@ -16,7 +16,7 @@ Die erste Ausstellung des achteintel—LitfassMuseum fand vom 23. Juli bis zum 1
 
 Aus dem Verbund der Litfaßsäulen enstand ein Museum im öffentlichen Raum. Jede dieser Säulen war ein nach außen gewölbter Ausstellungsraum. Die Kunstwerke konnten einzeln betrachtet oder auf einer Tour entlang der Litfaßsäulen als gesamte Ausstellung erkundet werden.
 
-Die erste Ausstellung des achteintel—LitfassMuseum fand regulär auf 12 Litfaßsäulen vom 23. Juli bis zum 2. August statt. Bis zum **12. August** blieb jeweils eine Säule pro Künstler*in im Karlsruher Stadtgebiet frei zugänglich.
+Die erste Ausstellung des achteintel—LitfassMuseum fand regulär auf 12 Litfaßsäulen vom 23. Juli bis zum 2. August statt. In der Verlängerung bis zum **12. August** blieb jeweils eine Säule pro Künstler*in im Karlsruher Stadtgebiet frei zugänglich.
 
 - - -
 
