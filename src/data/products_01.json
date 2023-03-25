@@ -1,42 +1,42 @@
 [
   {
+    "name": "achteintel—Magazin",
+    "info": "Für den Schutzumschlag des vorliegenden achteintel Magazins haben wir Teile von Originalplakaten des ersten achteintel—LitfassMuseums verwendet. Jedes Magazin ist ein Unikat und so kommt ein Stück der Ausstellung zu dir nach Hause.",
+    "price": "17.00",
+    "localized_price": "17,00",
+    "paypal_item_number": "81_magazine_01",
+    "picture": "./src/assets/img/product-magazine-01.jpeg"
+  },
+  {
     "name": "Kunstkartenset 6-teilig",
     "info": "Die Ausstellung für zu Hause. Hochwertige Kunstkarten im 6-teiligen Set, gedruckt auf Römerturm Jupp Pummelisch 300g/qm. Alle Künstler*innen der ersten Ausstellung sind mit jeweils einem ihrer Motive vertreten.",
-    "price": "12.60",
+    "price": "15.00",
     "localized_price": "15,00",
     "paypal_item_number": "81_artcards_01",
-    "shipping": "2.00",
-    "shipping2": "0.25",
     "picture": "./src/assets/img/product-artcards-01.jpeg"
-  },
-  {
-    "name": "Ausstellungsplakat",
-    "info": "Die Erinnerung an Deiner Wand. Das Ausstellungsplakat der ersten Ausstellung (DIN A2), gedruckt auf 115g Affichenpapier. Wird gefaltet auf DIN A5 verschickt.",
-    "price": "1.68",
-    "localized_price": "2,00",
-    "paypal_item_number": "81_poster_01",
-    "shipping": "1.50",
-    "shipping2": "0.25",
-    "picture": "./src/assets/img/product-poster-01.jpeg"
-  },
-  {
-    "name": "Stickerpack",
-    "info": "Wir lieben Aufkleber. Falls es Dir genauso geht, freu Dich auf 8 Sticker, die sich wunderbar auf Notebooks, Fahrrädern und Skateboards machen, und einen Button für Deinen Rucksack.",
-    "price": "2.52",
-    "localized_price": "3,00",
-    "paypal_item_number": "81_stick_01",
-    "shipping": "1.50",
-    "shipping2": "0.25",
-    "picture": "./src/assets/img/product-stickerpack-01.jpeg"
   },
   {
     "name": "Totebag Biobaumwolle",
     "info": "Die Ikone des LitfassMuseum! Hochwertige, schwarze Baumwolltasche mit einfarbigem Siebdruck. Trage den Dino der Werbewirtschaft durch die Stadt.",
-    "price": "8.40",
-    "localized_price": "10,00",
+    "price": "12.00",
+    "localized_price": "12,00",
     "paypal_item_number": "81_totebag_01",
-    "shipping": "2.00",
-    "shipping2": "0.50",
     "picture": "./src/assets/img/product-totebag-01.jpeg"
+  },
+  {
+    "name": "Stickerpack",
+    "info": "Wir lieben Aufkleber. Falls es Dir genauso geht, freu Dich auf 8 Sticker, die sich wunderbar auf Notebooks, Fahrrädern und Skateboards machen, und einen Button für Deinen Rucksack.",
+    "price": "4.00",
+    "localized_price": "4,00",
+    "paypal_item_number": "81_stick_01",
+    "picture": "./src/assets/img/product-stickerpack-01.jpeg"
+  },
+  {
+    "name": "Ausstellungsplakat",
+    "info": "Die Erinnerung an Deiner Wand. Das Ausstellungsplakat der ersten Ausstellung (DIN A2), gedruckt auf 115g Affichenpapier. Wird gefaltet auf DIN A5 verschickt.",
+    "price": "3.00",
+    "localized_price": "3,00",
+    "paypal_item_number": "81_poster_01",
+    "picture": "./src/assets/img/product-poster-01.jpeg"
   }
 ]
