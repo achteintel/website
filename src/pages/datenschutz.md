@@ -13,7 +13,7 @@ Verantwortliche Stelle im Sinne der Datenschutzgesetze, insbesondere der EU-Date
   <li class="p-name">Daniel Ehniss</li>
   <li class="p-street-address">Gerwigstr. 3</li>
   <li class="p-locality">76131 Karlsruhe</li>
-  <li class="top-spacing--l">Telefon: <span class="p-tel">+49-721-47041885</span></li>
+  <li class="top-spacing--l">Telefon: <span class="p-tel">+49-721-3352057</span></li>
   <li>E-Mail: <span class="u-email">post@achteintel.org</span></li>
 </ul>
 

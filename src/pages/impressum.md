@@ -13,7 +13,7 @@ metaDescription: Rechtliche Hinweise zu den Inhalten der Webseite des achteintel
   <li class="p-name">Daniel Ehniss</li>
   <li class="p-street-address">Gerwigstr. 3</li>
   <li class="p-locality">76131 Karlsruhe</li>
-  <li class="top-spacing--l">Telefon: <span class="p-tel">+49-721-47041885</span></li>
+  <li class="top-spacing--l">Telefon: <span class="p-tel">+49-721-3352057</span></li>
   <li>E-Mail: <span class="u-email">post@achteintel.org</span></li>
   <li>Umsatzsteuer-Identifikationsnummer: DE815443505</li>
 </ul>
